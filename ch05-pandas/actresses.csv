@@ -1,0 +1,917 @@
+year_ceremony,category,film,name
+1928,ACTRESS,7th Heaven,Janet Gaynor
+1928,ACTRESS,A Ship Comes In,Louise Dresser
+1928,ACTRESS,Sadie Thompson,Gloria Swanson
+1929,ACTRESS,Coquette,Mary Pickford
+1929,ACTRESS,Madame X,Ruth Chatterton
+1929,ACTRESS,The Barker,Betty Compson
+1929,ACTRESS,The Broadway Melody,Bessie Love
+1929,ACTRESS,The Divine Lady,Corinne Griffith
+1929,ACTRESS,The Letter (1928),Jeanne Eagels
+1930,ACTRESS,Anna Christie,Greta Garbo
+1930,ACTRESS,Sarah and Son,Ruth Chatterton
+1930,ACTRESS,The Devil's Holiday,Nancy Carroll
+1930,ACTRESS,The Divorcee,Norma Shearer
+1930,ACTRESS,The Trespasser,Gloria Swanson
+1930,ACTRESS,Their Own Desire,Norma Shearer
+1931,ACTRESS,A Free Soul,Norma Shearer
+1931,ACTRESS,Cimarron (1930),Irene Dunne
+1931,ACTRESS,Holiday (1930),Ann Harding
+1931,ACTRESS,Min and Bill,Marie Dressler
+1931,ACTRESS,Morocco,Marlene Dietrich
+1932,ACTRESS,Emma (1931),Marie Dressler
+1932,ACTRESS,The Guardsman,Lynn Fontanne
+1932,ACTRESS,The Sin of Madelon Claudet,Helen Hayes
+1933,ACTRESS,Cavalcade,Diana Wynyard
+1933,ACTRESS,Lady for a Day,May Robson
+1933,ACTRESS,Morning Glory,Katharine Hepburn
+1935,ACTRESS,It Happened One Night,Claudette Colbert
+1935,ACTRESS,Of Human Bondage,Bette Davis
+1935,ACTRESS,One Night of Love,Grace Moore
+1935,ACTRESS,The Barretts of Wimpole Street,Norma Shearer
+1936,ACTRESS,Alice Adams,Katharine Hepburn
+1936,ACTRESS,Becky Sharp,Miriam Hopkins
+1936,ACTRESS,Dangerous,Bette Davis
+1936,ACTRESS,Escape Me Never,Elisabeth Bergner
+1936,ACTRESS,Private Worlds,Claudette Colbert
+1936,ACTRESS,The Dark Angel,Merle Oberon
+1937,ACTRESS IN A SUPPORTING ROLE,Anthony Adverse,Gale Sondergaard
+1937,ACTRESS IN A SUPPORTING ROLE,Dodsworth,Maria Ouspenskaya
+1937,ACTRESS,My Man Godfrey,Carole Lombard
+1937,ACTRESS IN A SUPPORTING ROLE,My Man Godfrey,Alice Brady
+1937,ACTRESS,Romeo and Juliet (1936),Norma Shearer
+1937,ACTRESS IN A SUPPORTING ROLE,The Gorgeous Hussy,Beulah Bondi
+1937,ACTRESS,The Great Ziegfeld,Luise Rainer
+1937,ACTRESS,Theodora Goes Wild,Irene Dunne
+1937,ACTRESS IN A SUPPORTING ROLE,These Three,Bonita Granville
+1937,ACTRESS,Valiant Is the Word for Carrie,Gladys George
+1938,ACTRESS,A Star Is Born (1937),Janet Gaynor
+1938,ACTRESS,Camille,Greta Garbo
+1938,ACTRESS IN A SUPPORTING ROLE,Dead End,Claire Trevor
+1938,ACTRESS IN A SUPPORTING ROLE,In Old Chicago,Alice Brady
+1938,ACTRESS IN A SUPPORTING ROLE,Night Must Fall,Dame May Whitty
+1938,ACTRESS IN A SUPPORTING ROLE,Stage Door,Andrea Leeds
+1938,ACTRESS,Stella Dallas,Barbara Stanwyck
+1938,ACTRESS IN A SUPPORTING ROLE,Stella Dallas,Anne Shirley
+1938,ACTRESS,The Awful Truth,Irene Dunne
+1938,ACTRESS,The Good Earth,Luise Rainer
+1939,ACTRESS,Jezebel,Bette Davis
+1939,ACTRESS IN A SUPPORTING ROLE,Jezebel,Fay Bainter
+1939,ACTRESS,Marie Antoinette (1938),Norma Shearer
+1939,ACTRESS IN A SUPPORTING ROLE,Merrily We Live,Billie Burke
+1939,ACTRESS IN A SUPPORTING ROLE,Of Human Hearts,Beulah Bondi
+1939,ACTRESS,Pygmalion,Wendy Hiller
+1939,ACTRESS IN A SUPPORTING ROLE,The Great Waltz,Miliza Korjus
+1939,ACTRESS,Three Comrades,Margaret Sullavan
+1939,ACTRESS,White Banners,Fay Bainter
+1939,ACTRESS IN A SUPPORTING ROLE,You Can't Take It with You,Spring Byington
+1940,ACTRESS,Dark Victory,Bette Davis
+1940,ACTRESS IN A SUPPORTING ROLE,Drums along the Mohawk,Edna May Oliver
+1940,ACTRESS,Gone with the Wind,Vivien Leigh
+1940,ACTRESS IN A SUPPORTING ROLE,Gone with the Wind,Olivia de Havilland
+1940,ACTRESS IN A SUPPORTING ROLE,Gone with the Wind,Hattie McDaniel
+1940,ACTRESS,"Goodbye, Mr. Chips (1939)",Greer Garson
+1940,ACTRESS,Love Affair,Irene Dunne
+1940,ACTRESS IN A SUPPORTING ROLE,Love Affair,Maria Ouspenskaya
+1940,ACTRESS,Ninotchka,Greta Garbo
+1940,ACTRESS IN A SUPPORTING ROLE,Wuthering Heights,Geraldine Fitzgerald
+1941,ACTRESS IN A SUPPORTING ROLE,"All This, and Heaven Too",Barbara O'Neil
+1941,ACTRESS,Kitty Foyle,Ginger Rogers
+1941,ACTRESS,Our Town,Martha Scott
+1941,ACTRESS IN A SUPPORTING ROLE,Primrose Path,Marjorie Rambeau
+1941,ACTRESS,Rebecca,Joan Fontaine
+1941,ACTRESS IN A SUPPORTING ROLE,Rebecca,Judith Anderson
+1941,ACTRESS IN A SUPPORTING ROLE,The Grapes of Wrath,Jane Darwell
+1941,ACTRESS,The Letter (1940),Bette Davis
+1941,ACTRESS,The Philadelphia Story,Katharine Hepburn
+1941,ACTRESS IN A SUPPORTING ROLE,The Philadelphia Story,Ruth Hussey
+1942,ACTRESS,Ball of Fire,Barbara Stanwyck
+1942,ACTRESS,Blossoms in the Dust,Greer Garson
+1942,ACTRESS,Hold Back the Dawn,Olivia de Havilland
+1942,ACTRESS IN A SUPPORTING ROLE,How Green Was My Valley,Sara Allgood
+1942,ACTRESS IN A SUPPORTING ROLE,Sergeant York,Margaret Wycherly
+1942,ACTRESS,Suspicion,Joan Fontaine
+1942,ACTRESS IN A SUPPORTING ROLE,The Great Lie,Mary Astor
+1942,ACTRESS,The Little Foxes,Bette Davis
+1942,ACTRESS IN A SUPPORTING ROLE,The Little Foxes,Patricia Collinge
+1942,ACTRESS IN A SUPPORTING ROLE,The Little Foxes,Teresa Wright
+1943,ACTRESS,Mrs. Miniver,Greer Garson
+1943,ACTRESS IN A SUPPORTING ROLE,Mrs. Miniver,Teresa Wright
+1943,ACTRESS IN A SUPPORTING ROLE,Mrs. Miniver,Dame May Whitty
+1943,ACTRESS,My Sister Eileen,Rosalind Russell
+1943,ACTRESS,"Now, Voyager",Bette Davis
+1943,ACTRESS IN A SUPPORTING ROLE,"Now, Voyager",Gladys Cooper
+1943,ACTRESS IN A SUPPORTING ROLE,Random Harvest,Susan Peters
+1943,ACTRESS IN A SUPPORTING ROLE,The Magnificent Ambersons,Agnes Moorehead
+1943,ACTRESS,The Pride of the Yankees,Teresa Wright
+1943,ACTRESS,Woman of the Year,Katharine Hepburn
+1944,ACTRESS,For Whom the Bell Tolls,Ingrid Bergman
+1944,ACTRESS IN A SUPPORTING ROLE,For Whom the Bell Tolls,Katina Paxinou
+1944,ACTRESS,Madame Curie,Greer Garson
+1944,ACTRESS IN A SUPPORTING ROLE,So Proudly We Hail!,Paulette Goddard
+1944,ACTRESS,The Constant Nymph,Joan Fontaine
+1944,ACTRESS,The More the Merrier,Jean Arthur
+1944,ACTRESS,The Song of Bernadette,Jennifer Jones
+1944,ACTRESS IN A SUPPORTING ROLE,The Song of Bernadette,Anne Revere
+1944,ACTRESS IN A SUPPORTING ROLE,The Song of Bernadette,Gladys Cooper
+1944,ACTRESS IN A SUPPORTING ROLE,Watch on the Rhine,Lucile Watson
+1945,ACTRESS,Double Indemnity,Barbara Stanwyck
+1945,ACTRESS IN A SUPPORTING ROLE,Dragon Seed,Aline MacMahon
+1945,ACTRESS,Gaslight,Ingrid Bergman
+1945,ACTRESS IN A SUPPORTING ROLE,Gaslight,Angela Lansbury
+1945,ACTRESS,Mr. Skeffington,Bette Davis
+1945,ACTRESS,Mrs. Parkington,Greer Garson
+1945,ACTRESS IN A SUPPORTING ROLE,Mrs. Parkington,Agnes Moorehead
+1945,ACTRESS IN A SUPPORTING ROLE,None but the Lonely Heart,Ethel Barrymore
+1945,ACTRESS,Since You Went Away,Claudette Colbert
+1945,ACTRESS IN A SUPPORTING ROLE,Since You Went Away,Jennifer Jones
+1946,ACTRESS,Leave Her to Heaven,Gene Tierney
+1946,ACTRESS,Love Letters,Jennifer Jones
+1946,ACTRESS,Mildred Pierce,Joan Crawford
+1946,ACTRESS IN A SUPPORTING ROLE,Mildred Pierce,Ann Blyth
+1946,ACTRESS IN A SUPPORTING ROLE,Mildred Pierce,Eve Arden
+1946,ACTRESS IN A SUPPORTING ROLE,National Velvet,Anne Revere
+1946,ACTRESS,The Bells of St. Mary's,Ingrid Bergman
+1946,ACTRESS IN A SUPPORTING ROLE,The Corn Is Green,Joan Lorring
+1946,ACTRESS IN A SUPPORTING ROLE,The Picture of Dorian Gray,Angela Lansbury
+1946,ACTRESS,The Valley of Decision,Greer Garson
+1947,ACTRESS IN A SUPPORTING ROLE,Anna and the King of Siam,Gale Sondergaard
+1947,ACTRESS,Brief Encounter,Celia Johnson
+1947,ACTRESS,Duel in the Sun,Jennifer Jones
+1947,ACTRESS IN A SUPPORTING ROLE,Duel in the Sun,Lillian Gish
+1947,ACTRESS IN A SUPPORTING ROLE,Saratoga Trunk,Flora Robson
+1947,ACTRESS,Sister Kenny,Rosalind Russell
+1947,ACTRESS IN A SUPPORTING ROLE,The Razor's Edge,Anne Baxter
+1947,ACTRESS IN A SUPPORTING ROLE,The Spiral Staircase,Ethel Barrymore
+1947,ACTRESS,The Yearling,Jane Wyman
+1947,ACTRESS,To Each His Own,Olivia de Havilland
+1948,ACTRESS IN A SUPPORTING ROLE,Crossfire,Gloria Grahame
+1948,ACTRESS,Gentleman's Agreement,Dorothy McGuire
+1948,ACTRESS IN A SUPPORTING ROLE,Gentleman's Agreement,Anne Revere
+1948,ACTRESS IN A SUPPORTING ROLE,Gentleman's Agreement,Celeste Holm
+1948,ACTRESS,Mourning Becomes Electra,Rosalind Russell
+1948,ACTRESS,Possessed,Joan Crawford
+1948,ACTRESS,Smash-Up--The Story of a Woman,Susan Hayward
+1948,ACTRESS IN A SUPPORTING ROLE,The Egg and I,Marjorie Main
+1948,ACTRESS,The Farmer's Daughter,Loretta Young
+1948,ACTRESS IN A SUPPORTING ROLE,The Paradine Case,Ethel Barrymore
+1949,ACTRESS IN A SUPPORTING ROLE,Hamlet (1948),Jean Simmons
+1949,ACTRESS,I Remember Mama,Irene Dunne
+1949,ACTRESS IN A SUPPORTING ROLE,I Remember Mama,Barbara Bel Geddes
+1949,ACTRESS IN A SUPPORTING ROLE,I Remember Mama,Ellen Corby
+1949,ACTRESS,Joan of Arc,Ingrid Bergman
+1949,ACTRESS,Johnny Belinda,Jane Wyman
+1949,ACTRESS IN A SUPPORTING ROLE,Johnny Belinda,Agnes Moorehead
+1949,ACTRESS IN A SUPPORTING ROLE,Key Largo,Claire Trevor
+1949,ACTRESS,"Sorry, Wrong Number",Barbara Stanwyck
+1949,ACTRESS,The Snake Pit,Olivia de Havilland
+1950,ACTRESS IN A SUPPORTING ROLE,All the King's Men,Mercedes McCambridge
+1950,ACTRESS,Come to the Stable,Loretta Young
+1950,ACTRESS IN A SUPPORTING ROLE,Come to the Stable,Elsa Lanchester
+1950,ACTRESS IN A SUPPORTING ROLE,Come to the Stable,Celeste Holm
+1950,ACTRESS,"Edward, My Son",Deborah Kerr
+1950,ACTRESS,My Foolish Heart,Susan Hayward
+1950,ACTRESS,Pinky,Jeanne Crain
+1950,ACTRESS IN A SUPPORTING ROLE,Pinky,Ethel Waters
+1950,ACTRESS IN A SUPPORTING ROLE,Pinky,Ethel Barrymore
+1950,ACTRESS,The Heiress,Olivia de Havilland
+1951,ACTRESS,All about Eve,Bette Davis
+1951,ACTRESS,All about Eve,Anne Baxter
+1951,ACTRESS IN A SUPPORTING ROLE,All about Eve,Thelma Ritter
+1951,ACTRESS IN A SUPPORTING ROLE,All about Eve,Celeste Holm
+1951,ACTRESS,Born Yesterday,Judy Holliday
+1951,ACTRESS,Caged,Eleanor Parker
+1951,ACTRESS IN A SUPPORTING ROLE,Caged,Hope Emerson
+1951,ACTRESS IN A SUPPORTING ROLE,Harvey,Josephine Hull
+1951,ACTRESS,Sunset Blvd.,Gloria Swanson
+1951,ACTRESS IN A SUPPORTING ROLE,Sunset Blvd.,Nancy Olson
+1952,ACTRESS,A Place in the Sun (1951),Shelley Winters
+1952,ACTRESS,A Streetcar Named Desire,Vivien Leigh
+1952,ACTRESS IN A SUPPORTING ROLE,A Streetcar Named Desire,Kim Hunter
+1952,ACTRESS IN A SUPPORTING ROLE,Death of a Salesman,Mildred Dunnock
+1952,ACTRESS,Detective Story,Eleanor Parker
+1952,ACTRESS IN A SUPPORTING ROLE,Detective Story,Lee Grant
+1952,ACTRESS,The African Queen,Katharine Hepburn
+1952,ACTRESS,The Blue Veil,Jane Wyman
+1952,ACTRESS IN A SUPPORTING ROLE,The Blue Veil,Joan Blondell
+1952,ACTRESS IN A SUPPORTING ROLE,The Mating Season,Thelma Ritter
+1953,ACTRESS,"Come Back, Little Sheba",Shirley Booth
+1953,ACTRESS IN A SUPPORTING ROLE,"Come Back, Little Sheba",Terry Moore
+1953,ACTRESS IN A SUPPORTING ROLE,Moulin Rouge (1952),Colette Marchand
+1953,ACTRESS IN A SUPPORTING ROLE,Singin' in the Rain,Jean Hagen
+1953,ACTRESS,Sudden Fear,Joan Crawford
+1953,ACTRESS IN A SUPPORTING ROLE,The Bad and the Beautiful,Gloria Grahame
+1953,ACTRESS,The Member of the Wedding,Julie Harris
+1953,ACTRESS,The Star,Bette Davis
+1953,ACTRESS,With a Song in My Heart,Susan Hayward
+1953,ACTRESS IN A SUPPORTING ROLE,With a Song in My Heart,Thelma Ritter
+1954,ACTRESS,From Here to Eternity,Deborah Kerr
+1954,ACTRESS IN A SUPPORTING ROLE,From Here to Eternity,Donna Reed
+1954,ACTRESS IN A SUPPORTING ROLE,Hondo,Geraldine Page
+1954,ACTRESS,Lili,Leslie Caron
+1954,ACTRESS,Mogambo,Ava Gardner
+1954,ACTRESS IN A SUPPORTING ROLE,Mogambo,Grace Kelly
+1954,ACTRESS IN A SUPPORTING ROLE,Pickup on South Street,Thelma Ritter
+1954,ACTRESS,Roman Holiday,Audrey Hepburn
+1954,ACTRESS,The Moon Is Blue,Maggie McNamara
+1954,ACTRESS IN A SUPPORTING ROLE,Torch Song,Marjorie Rambeau
+1955,ACTRESS,A Star Is Born (1954),Judy Garland
+1955,ACTRESS IN A SUPPORTING ROLE,Broken Lance,Katy Jurado
+1955,ACTRESS,Carmen Jones,Dorothy Dandridge
+1955,ACTRESS IN A SUPPORTING ROLE,Executive Suite,Nina Foch
+1955,ACTRESS,Magnificent Obsession,Jane Wyman
+1955,ACTRESS IN A SUPPORTING ROLE,On the Waterfront,Eva Marie Saint
+1955,ACTRESS,Sabrina (1954),Audrey Hepburn
+1955,ACTRESS,The Country Girl,Grace Kelly
+1955,ACTRESS IN A SUPPORTING ROLE,The High and the Mighty,Jan Sterling
+1955,ACTRESS IN A SUPPORTING ROLE,The High and the Mighty,Claire Trevor
+1956,ACTRESS IN A SUPPORTING ROLE,East of Eden,Jo Van Fleet
+1956,ACTRESS,I'll Cry Tomorrow,Susan Hayward
+1956,ACTRESS,Interrupted Melody,Eleanor Parker
+1956,ACTRESS,Love Is a Many-Splendored Thing,Jennifer Jones
+1956,ACTRESS IN A SUPPORTING ROLE,Marty,Betsy Blair
+1956,ACTRESS IN A SUPPORTING ROLE,Pete Kelly's Blues,Peggy Lee
+1956,ACTRESS IN A SUPPORTING ROLE,Rebel without a Cause,Natalie Wood
+1956,ACTRESS,Summertime,Katharine Hepburn
+1956,ACTRESS,The Rose Tattoo,Anna Magnani
+1956,ACTRESS IN A SUPPORTING ROLE,The Rose Tattoo,Marisa Pavan
+1957,ACTRESS,Anastasia (1956),Ingrid Bergman
+1957,ACTRESS,Baby Doll,Carroll Baker
+1957,ACTRESS IN A SUPPORTING ROLE,Baby Doll,Mildred Dunnock
+1957,ACTRESS IN A SUPPORTING ROLE,Giant,Mercedes McCambridge
+1957,ACTRESS,The Bad Seed,Nancy Kelly
+1957,ACTRESS IN A SUPPORTING ROLE,The Bad Seed,Eileen Heckart
+1957,ACTRESS IN A SUPPORTING ROLE,The Bad Seed,Patty McCormack
+1957,ACTRESS,The King and I,Deborah Kerr
+1957,ACTRESS,The Rainmaker,Katharine Hepburn
+1957,ACTRESS IN A SUPPORTING ROLE,Written on the Wind,Dorothy Malone
+1958,ACTRESS,"Heaven Knows, Mr. Allison",Deborah Kerr
+1958,ACTRESS,Peyton Place,Lana Turner
+1958,ACTRESS IN A SUPPORTING ROLE,Peyton Place,Hope Lange
+1958,ACTRESS IN A SUPPORTING ROLE,Peyton Place,Diane Varsi
+1958,ACTRESS,Raintree County,Elizabeth Taylor
+1958,ACTRESS IN A SUPPORTING ROLE,Sayonara,Miyoshi Umeki
+1958,ACTRESS IN A SUPPORTING ROLE,The Bachelor Party,Carolyn Jones
+1958,ACTRESS,The Three Faces of Eve,Joanne Woodward
+1958,ACTRESS,Wild Is the Wind,Anna Magnani
+1958,ACTRESS IN A SUPPORTING ROLE,Witness for the Prosecution,Elsa Lanchester
+1959,ACTRESS,Auntie Mame,Rosalind Russell
+1959,ACTRESS IN A SUPPORTING ROLE,Auntie Mame,Peggy Cass
+1959,ACTRESS,Cat on a Hot Tin Roof,Elizabeth Taylor
+1959,ACTRESS,I Want to Live!,Susan Hayward
+1959,ACTRESS IN A SUPPORTING ROLE,Lonelyhearts,Maureen Stapleton
+1959,ACTRESS,Separate Tables,Deborah Kerr
+1959,ACTRESS IN A SUPPORTING ROLE,Separate Tables,Wendy Hiller
+1959,ACTRESS,Some Came Running,Shirley MacLaine
+1959,ACTRESS IN A SUPPORTING ROLE,Some Came Running,Martha Hyer
+1959,ACTRESS IN A SUPPORTING ROLE,The Defiant Ones,Cara Williams
+1960,ACTRESS IN A SUPPORTING ROLE,Imitation of Life (1959),Susan Kohner
+1960,ACTRESS IN A SUPPORTING ROLE,Imitation of Life (1959),Juanita Moore
+1960,ACTRESS,Pillow Talk,Doris Day
+1960,ACTRESS IN A SUPPORTING ROLE,Pillow Talk,Thelma Ritter
+1960,ACTRESS,Room at the Top,Simone Signoret
+1960,ACTRESS IN A SUPPORTING ROLE,Room at the Top,Hermione Baddeley
+1960,ACTRESS,"Suddenly, Last Summer",Elizabeth Taylor
+1960,ACTRESS,"Suddenly, Last Summer",Katharine Hepburn
+1960,ACTRESS IN A SUPPORTING ROLE,The Diary of Anne Frank,Shelley Winters
+1960,ACTRESS,The Nun's Story,Audrey Hepburn
+1961,ACTRESS,Butterfield 8,Elizabeth Taylor
+1961,ACTRESS IN A SUPPORTING ROLE,Elmer Gantry,Shirley Jones
+1961,ACTRESS,Never on Sunday,Melina Mercouri
+1961,ACTRESS IN A SUPPORTING ROLE,Psycho,Janet Leigh
+1961,ACTRESS IN A SUPPORTING ROLE,Sons and Lovers,Mary Ure
+1961,ACTRESS,Sunrise at Campobello,Greer Garson
+1961,ACTRESS,The Apartment,Shirley MacLaine
+1961,ACTRESS IN A SUPPORTING ROLE,The Dark at the Top of the Stairs,Shirley Knight
+1961,ACTRESS,The Sundowners,Deborah Kerr
+1961,ACTRESS IN A SUPPORTING ROLE,The Sundowners,Glynis Johns
+1962,ACTRESS,Breakfast at Tiffany's,Audrey Hepburn
+1962,ACTRESS IN A SUPPORTING ROLE,Judgment at Nuremberg,Judy Garland
+1962,ACTRESS,Splendor in the Grass,Natalie Wood
+1962,ACTRESS,Summer and Smoke,Geraldine Page
+1962,ACTRESS IN A SUPPORTING ROLE,Summer and Smoke,Una Merkel
+1962,ACTRESS IN A SUPPORTING ROLE,The Children's Hour,Fay Bainter
+1962,ACTRESS,The Hustler,Piper Laurie
+1962,ACTRESS IN A SUPPORTING ROLE,The Roman Spring of Mrs. Stone,Lotte Lenya
+1962,ACTRESS,Two Women,Sophia Loren
+1962,ACTRESS IN A SUPPORTING ROLE,West Side Story (1961),Rita Moreno
+1963,ACTRESS IN A SUPPORTING ROLE,Birdman of Alcatraz,Thelma Ritter
+1963,ACTRESS,Days of Wine and Roses,Lee Remick
+1963,ACTRESS,Long Day's Journey into Night,Katharine Hepburn
+1963,ACTRESS,Sweet Bird of Youth,Geraldine Page
+1963,ACTRESS IN A SUPPORTING ROLE,Sweet Bird of Youth,Shirley Knight
+1963,ACTRESS IN A SUPPORTING ROLE,The Manchurian Candidate,Angela Lansbury
+1963,ACTRESS,The Miracle Worker,Anne Bancroft
+1963,ACTRESS IN A SUPPORTING ROLE,The Miracle Worker,Patty Duke
+1963,ACTRESS IN A SUPPORTING ROLE,To Kill a Mockingbird,Mary Badham
+1963,ACTRESS,What Ever Happened to Baby Jane?,Bette Davis
+1964,ACTRESS,Hud,Patricia Neal
+1964,ACTRESS,Irma La Douce,Shirley MacLaine
+1964,ACTRESS IN A SUPPORTING ROLE,Lilies of the Field,Lilia Skala
+1964,ACTRESS,Love with the Proper Stranger,Natalie Wood
+1964,ACTRESS,The L-Shaped Room,Leslie Caron
+1964,ACTRESS IN A SUPPORTING ROLE,The V.I.P.s,Margaret Rutherford
+1964,ACTRESS,This Sporting Life,Rachel Roberts
+1964,ACTRESS IN A SUPPORTING ROLE,Tom Jones,Diane Cilento
+1964,ACTRESS IN A SUPPORTING ROLE,Tom Jones,Dame Edith Evans
+1964,ACTRESS IN A SUPPORTING ROLE,Tom Jones,Joyce Redman
+1965,ACTRESS IN A SUPPORTING ROLE,"Hush...Hush, Sweet Charlotte",Agnes Moorehead
+1965,ACTRESS,Marriage Italian Style (1964),Sophia Loren
+1965,ACTRESS,Mary Poppins,Julie Andrews
+1965,ACTRESS IN A SUPPORTING ROLE,My Fair Lady,Gladys Cooper
+1965,ACTRESS,Seance on a Wet Afternoon,Kim Stanley
+1965,ACTRESS IN A SUPPORTING ROLE,The Chalk Garden,Dame Edith Evans
+1965,ACTRESS IN A SUPPORTING ROLE,The Night of the Iguana,Grayson Hall
+1965,ACTRESS,The Pumpkin Eater,Anne Bancroft
+1965,ACTRESS,The Unsinkable Molly Brown,Debbie Reynolds
+1965,ACTRESS IN A SUPPORTING ROLE,Zorba the Greek,Lila Kedrova
+1966,ACTRESS,A Patch of Blue,Elizabeth Hartman
+1966,ACTRESS IN A SUPPORTING ROLE,A Patch of Blue,Shelley Winters
+1966,ACTRESS,Darling,Julie Christie
+1966,ACTRESS IN A SUPPORTING ROLE,Inside Daisy Clover,Ruth Gordon
+1966,ACTRESS IN A SUPPORTING ROLE,Othello,Maggie Smith
+1966,ACTRESS IN A SUPPORTING ROLE,Othello,Joyce Redman
+1966,ACTRESS,Ship of Fools,Simone Signoret
+1966,ACTRESS,The Collector,Samantha Eggar
+1966,ACTRESS,The Sound of Music,Julie Andrews
+1966,ACTRESS IN A SUPPORTING ROLE,The Sound of Music,Peggy Wood
+1967,ACTRESS,A Man and a Woman,Anouk Aimee
+1967,ACTRESS IN A SUPPORTING ROLE,A Man for All Seasons,Wendy Hiller
+1967,ACTRESS IN A SUPPORTING ROLE,Alfie,Vivien Merchant
+1967,ACTRESS,Georgy Girl,Lynn Redgrave
+1967,ACTRESS IN A SUPPORTING ROLE,Hawaii,Jocelyne Lagarde
+1967,ACTRESS,Morgan!,Vanessa Redgrave
+1967,ACTRESS,The Shop on Main Street (1966),Ida Kaminska
+1967,ACTRESS,Who's Afraid of Virginia Woolf?,Elizabeth Taylor
+1967,ACTRESS IN A SUPPORTING ROLE,Who's Afraid of Virginia Woolf?,Sandy Dennis
+1967,ACTRESS IN A SUPPORTING ROLE,You're a Big Boy Now,Geraldine Page
+1968,ACTRESS IN A SUPPORTING ROLE,Barefoot in the Park,Mildred Natwick
+1968,ACTRESS,Bonnie and Clyde,Faye Dunaway
+1968,ACTRESS IN A SUPPORTING ROLE,Bonnie and Clyde,Estelle Parsons
+1968,ACTRESS,Guess Who's Coming to Dinner,Katharine Hepburn
+1968,ACTRESS IN A SUPPORTING ROLE,Guess Who's Coming to Dinner,Beah Richards
+1968,ACTRESS,The Graduate,Anne Bancroft
+1968,ACTRESS IN A SUPPORTING ROLE,The Graduate,Katharine Ross
+1968,ACTRESS,The Whisperers,Dame Edith Evans
+1968,ACTRESS IN A SUPPORTING ROLE,Thoroughly Modern Millie,Carol Channing
+1968,ACTRESS,Wait until Dark,Audrey Hepburn
+1969,ACTRESS IN A SUPPORTING ROLE,Faces,Lynn Carlin
+1969,ACTRESS,Funny Girl,Barbra Streisand
+1969,ACTRESS IN A SUPPORTING ROLE,Funny Girl,Kay Medford
+1969,ACTRESS,Isadora,Vanessa Redgrave
+1969,ACTRESS,"Rachel, Rachel",Joanne Woodward
+1969,ACTRESS IN A SUPPORTING ROLE,"Rachel, Rachel",Estelle Parsons
+1969,ACTRESS IN A SUPPORTING ROLE,Rosemary's Baby,Ruth Gordon
+1969,ACTRESS IN A SUPPORTING ROLE,The Heart Is a Lonely Hunter,Sondra Locke
+1969,ACTRESS,The Lion in Winter,Katharine Hepburn
+1969,ACTRESS,The Subject Was Roses,Patricia Neal
+1970,ACTRESS,Anne of the Thousand Days,Genevieve Bujold
+1970,ACTRESS IN A SUPPORTING ROLE,Bob & Carol & Ted & Alice,Dyan Cannon
+1970,ACTRESS IN A SUPPORTING ROLE,Cactus Flower,Goldie Hawn
+1970,ACTRESS IN A SUPPORTING ROLE,Last Summer,Catherine Burns
+1970,ACTRESS IN A SUPPORTING ROLE,Midnight Cowboy,Sylvia Miles
+1970,ACTRESS,The Happy Ending,Jean Simmons
+1970,ACTRESS,The Prime of Miss Jean Brodie,Maggie Smith
+1970,ACTRESS,The Sterile Cuckoo,Liza Minnelli
+1970,ACTRESS,"They Shoot Horses, Don't They?",Jane Fonda
+1970,ACTRESS IN A SUPPORTING ROLE,"They Shoot Horses, Don't They?",Susannah York
+1971,ACTRESS IN A SUPPORTING ROLE,Airport,Maureen Stapleton
+1971,ACTRESS IN A SUPPORTING ROLE,Airport,Helen Hayes
+1971,ACTRESS,Diary of a Mad Housewife,Carrie Snodgress
+1971,ACTRESS IN A SUPPORTING ROLE,Five Easy Pieces,Karen Black
+1971,ACTRESS,Love Story,Ali MacGraw
+1971,ACTRESS IN A SUPPORTING ROLE,M*A*S*H,Sally Kellerman
+1971,ACTRESS,Ryan's Daughter,Sarah Miles
+1971,ACTRESS,The Great White Hope,Jane Alexander
+1971,ACTRESS IN A SUPPORTING ROLE,The Landlord,Lee Grant
+1971,ACTRESS,Women in Love,Glenda Jackson
+1972,ACTRESS IN A SUPPORTING ROLE,Carnal Knowledge,Ann-Margret
+1972,ACTRESS,Klute,Jane Fonda
+1972,ACTRESS,"Mary, Queen of Scots",Vanessa Redgrave
+1972,ACTRESS,McCabe & Mrs. Miller,Julie Christie
+1972,ACTRESS,Nicholas and Alexandra,Janet Suzman
+1972,ACTRESS,Sunday Bloody Sunday,Glenda Jackson
+1972,ACTRESS IN A SUPPORTING ROLE,The Go-Between,Margaret Leighton
+1972,ACTRESS IN A SUPPORTING ROLE,The Last Picture Show,Ellen Burstyn
+1972,ACTRESS IN A SUPPORTING ROLE,The Last Picture Show,Cloris Leachman
+1972,ACTRESS IN A SUPPORTING ROLE,Who Is Harry Kellerman and Why Is He Saying Those Terrible Things about Me?,Barbara Harris
+1973,ACTRESS IN A SUPPORTING ROLE,Butterflies Are Free,Eileen Heckart
+1973,ACTRESS,Cabaret,Liza Minnelli
+1973,ACTRESS IN A SUPPORTING ROLE,Fat City,Susan Tyrrell
+1973,ACTRESS,Lady Sings the Blues,Diana Ross
+1973,ACTRESS IN A SUPPORTING ROLE,Pete 'n' Tillie,Geraldine Page
+1973,ACTRESS,Sounder,Cicely Tyson
+1973,ACTRESS,The Emigrants (1972),Liv Ullmann
+1973,ACTRESS IN A SUPPORTING ROLE,The Heartbreak Kid,Jeannie Berlin
+1973,ACTRESS IN A SUPPORTING ROLE,The Poseidon Adventure,Shelley Winters
+1973,ACTRESS,Travels with My Aunt,Maggie Smith
+1974,ACTRESS,A Touch of Class,Glenda Jackson
+1974,ACTRESS IN A SUPPORTING ROLE,American Graffiti,Candy Clark
+1974,ACTRESS,Cinderella Liberty,Marsha Mason
+1974,ACTRESS IN A SUPPORTING ROLE,Paper Moon,Tatum O'Neal
+1974,ACTRESS IN A SUPPORTING ROLE,Paper Moon,Madeline Kahn
+1974,ACTRESS,"Summer Wishes, Winter Dreams",Joanne Woodward
+1974,ACTRESS IN A SUPPORTING ROLE,"Summer Wishes, Winter Dreams",Sylvia Sidney
+1974,ACTRESS,The Exorcist,Ellen Burstyn
+1974,ACTRESS IN A SUPPORTING ROLE,The Exorcist,Linda Blair
+1974,ACTRESS,The Way We Were,Barbra Streisand
+1975,ACTRESS,A Woman under the Influence,Gena Rowlands
+1975,ACTRESS,Alice Doesn't Live Here Anymore,Ellen Burstyn
+1975,ACTRESS IN A SUPPORTING ROLE,Alice Doesn't Live Here Anymore,Diane Ladd
+1975,ACTRESS IN A SUPPORTING ROLE,Blazing Saddles,Madeline Kahn
+1975,ACTRESS,Chinatown,Faye Dunaway
+1975,ACTRESS,Claudine,Diahann Carroll
+1975,ACTRESS IN A SUPPORTING ROLE,Day for Night (1974),Valentina Cortese
+1975,ACTRESS,Lenny,Valerie Perrine
+1975,ACTRESS IN A SUPPORTING ROLE,Murder on the Orient Express,Ingrid Bergman
+1975,ACTRESS IN A SUPPORTING ROLE,The Godfather Part II,Talia Shire
+1976,ACTRESS IN A SUPPORTING ROLE,"Farewell, My Lovely",Sylvia Miles
+1976,ACTRESS,Hedda,Glenda Jackson
+1976,ACTRESS,Hester Street,Carol Kane
+1976,ACTRESS IN A SUPPORTING ROLE,Jacqueline Susann's Once Is Not Enough,Brenda Vaccaro
+1976,ACTRESS IN A SUPPORTING ROLE,Nashville,Lily Tomlin
+1976,ACTRESS IN A SUPPORTING ROLE,Nashville,Ronee Blakley
+1976,ACTRESS,One Flew over the Cuckoo's Nest,Louise Fletcher
+1976,ACTRESS IN A SUPPORTING ROLE,Shampoo,Lee Grant
+1976,ACTRESS,The Story of Adele H.,Isabelle Adjani
+1976,ACTRESS,Tommy,Ann-Margret
+1977,ACTRESS IN A SUPPORTING ROLE,All the President's Men,Jane Alexander
+1977,ACTRESS IN A LEADING ROLE,Carrie (1976),Sissy Spacek
+1977,ACTRESS IN A SUPPORTING ROLE,Carrie (1976),Piper Laurie
+1977,ACTRESS IN A LEADING ROLE,"Cousin, Cousine",Marie-Christine Barrault
+1977,ACTRESS IN A LEADING ROLE,Face to Face,Liv Ullmann
+1977,ACTRESS IN A LEADING ROLE,Network,Faye Dunaway
+1977,ACTRESS IN A SUPPORTING ROLE,Network,Beatrice Straight
+1977,ACTRESS IN A LEADING ROLE,Rocky,Talia Shire
+1977,ACTRESS IN A SUPPORTING ROLE,Taxi Driver,Jodie Foster
+1977,ACTRESS IN A SUPPORTING ROLE,Voyage of the Damned,Lee Grant
+1978,ACTRESS IN A LEADING ROLE,Annie Hall,Diane Keaton
+1978,ACTRESS IN A SUPPORTING ROLE,Close Encounters of the Third Kind,Melinda Dillon
+1978,ACTRESS IN A LEADING ROLE,Julia,Jane Fonda
+1978,ACTRESS IN A SUPPORTING ROLE,Julia,Vanessa Redgrave
+1978,ACTRESS IN A SUPPORTING ROLE,Looking for Mr. Goodbar,Tuesday Weld
+1978,ACTRESS IN A LEADING ROLE,The Goodbye Girl,Marsha Mason
+1978,ACTRESS IN A SUPPORTING ROLE,The Goodbye Girl,Quinn Cummings
+1978,ACTRESS IN A LEADING ROLE,The Turning Point,Shirley MacLaine
+1978,ACTRESS IN A LEADING ROLE,The Turning Point,Anne Bancroft
+1978,ACTRESS IN A SUPPORTING ROLE,The Turning Point,Leslie Browne
+1979,ACTRESS IN A LEADING ROLE,An Unmarried Woman,Jill Clayburgh
+1979,ACTRESS IN A LEADING ROLE,Autumn Sonata,Ingrid Bergman
+1979,ACTRESS IN A SUPPORTING ROLE,California Suite,Maggie Smith
+1979,ACTRESS IN A LEADING ROLE,Coming Home,Jane Fonda
+1979,ACTRESS IN A SUPPORTING ROLE,Coming Home,Penelope Milford
+1979,ACTRESS IN A SUPPORTING ROLE,Heaven Can Wait (1978),Dyan Cannon
+1979,ACTRESS IN A LEADING ROLE,Interiors,Geraldine Page
+1979,ACTRESS IN A SUPPORTING ROLE,Interiors,Maureen Stapleton
+1979,ACTRESS IN A LEADING ROLE,"Same Time, Next Year",Ellen Burstyn
+1979,ACTRESS IN A SUPPORTING ROLE,The Deer Hunter,Meryl Streep
+1980,ACTRESS IN A SUPPORTING ROLE,Breaking Away,Barbara Barrie
+1980,ACTRESS IN A LEADING ROLE,Chapter Two,Marsha Mason
+1980,ACTRESS IN A SUPPORTING ROLE,Kramer vs. Kramer,Meryl Streep
+1980,ACTRESS IN A SUPPORTING ROLE,Kramer vs. Kramer,Jane Alexander
+1980,ACTRESS IN A SUPPORTING ROLE,Manhattan,Mariel Hemingway
+1980,ACTRESS IN A LEADING ROLE,Norma Rae,Sally Field
+1980,ACTRESS IN A LEADING ROLE,Starting Over,Jill Clayburgh
+1980,ACTRESS IN A SUPPORTING ROLE,Starting Over,Candice Bergen
+1980,ACTRESS IN A LEADING ROLE,The China Syndrome,Jane Fonda
+1980,ACTRESS IN A LEADING ROLE,The Rose,Bette Midler
+1981,ACTRESS IN A LEADING ROLE,Coal Miner's Daughter,Sissy Spacek
+1981,ACTRESS IN A LEADING ROLE,Gloria,Gena Rowlands
+1981,ACTRESS IN A SUPPORTING ROLE,Inside Moves,Diana Scarwid
+1981,ACTRESS IN A SUPPORTING ROLE,Melvin and Howard,Mary Steenburgen
+1981,ACTRESS IN A LEADING ROLE,Ordinary People,Mary Tyler Moore
+1981,ACTRESS IN A LEADING ROLE,Private Benjamin,Goldie Hawn
+1981,ACTRESS IN A SUPPORTING ROLE,Private Benjamin,Eileen Brennan
+1981,ACTRESS IN A SUPPORTING ROLE,Raging Bull,Cathy Moriarty
+1981,ACTRESS IN A LEADING ROLE,Resurrection,Ellen Burstyn
+1981,ACTRESS IN A SUPPORTING ROLE,Resurrection,Eva Le Gallienne
+1982,ACTRESS IN A SUPPORTING ROLE,Absence of Malice,Melinda Dillon
+1982,ACTRESS IN A LEADING ROLE,Atlantic City,Susan Sarandon
+1982,ACTRESS IN A LEADING ROLE,On Golden Pond,Katharine Hepburn
+1982,ACTRESS IN A SUPPORTING ROLE,On Golden Pond,Jane Fonda
+1982,ACTRESS IN A LEADING ROLE,Only When I Laugh,Marsha Mason
+1982,ACTRESS IN A SUPPORTING ROLE,Only When I Laugh,Joan Hackett
+1982,ACTRESS IN A SUPPORTING ROLE,Ragtime,Elizabeth McGovern
+1982,ACTRESS IN A LEADING ROLE,Reds,Diane Keaton
+1982,ACTRESS IN A SUPPORTING ROLE,Reds,Maureen Stapleton
+1982,ACTRESS IN A LEADING ROLE,The French Lieutenant's Woman,Meryl Streep
+1983,ACTRESS IN A LEADING ROLE,An Officer and a Gentleman,Debra Winger
+1983,ACTRESS IN A LEADING ROLE,Frances,Jessica Lange
+1983,ACTRESS IN A SUPPORTING ROLE,Frances,Kim Stanley
+1983,ACTRESS IN A LEADING ROLE,Missing,Sissy Spacek
+1983,ACTRESS IN A LEADING ROLE,Sophie's Choice,Meryl Streep
+1983,ACTRESS IN A SUPPORTING ROLE,The World According to Garp,Glenn Close
+1983,ACTRESS IN A SUPPORTING ROLE,Tootsie,Jessica Lange
+1983,ACTRESS IN A SUPPORTING ROLE,Tootsie,Teri Garr
+1983,ACTRESS IN A LEADING ROLE,Victor/Victoria,Julie Andrews
+1983,ACTRESS IN A SUPPORTING ROLE,Victor/Victoria,Lesley Ann Warren
+1984,ACTRESS IN A SUPPORTING ROLE,Cross Creek,Alfre Woodard
+1984,ACTRESS IN A LEADING ROLE,Educating Rita,Julie Walters
+1984,ACTRESS IN A LEADING ROLE,Silkwood,Meryl Streep
+1984,ACTRESS IN A SUPPORTING ROLE,Silkwood,Cher
+1984,ACTRESS IN A LEADING ROLE,Terms of Endearment,Debra Winger
+1984,ACTRESS IN A LEADING ROLE,Terms of Endearment,Shirley MacLaine
+1984,ACTRESS IN A LEADING ROLE,Testament,Jane Alexander
+1984,ACTRESS IN A SUPPORTING ROLE,The Big Chill,Glenn Close
+1984,ACTRESS IN A SUPPORTING ROLE,The Year of Living Dangerously,Linda Hunt
+1984,ACTRESS IN A SUPPORTING ROLE,Yentl,Amy Irving
+1985,ACTRESS IN A LEADING ROLE,A Passage to India,Judy Davis
+1985,ACTRESS IN A SUPPORTING ROLE,A Passage to India,Peggy Ashcroft
+1985,ACTRESS IN A LEADING ROLE,Country,Jessica Lange
+1985,ACTRESS IN A LEADING ROLE,Places in the Heart,Sally Field
+1985,ACTRESS IN A SUPPORTING ROLE,Places in the Heart,Lindsay Crouse
+1985,ACTRESS IN A SUPPORTING ROLE,Swing Shift,Christine Lahti
+1985,ACTRESS IN A LEADING ROLE,The Bostonians,Vanessa Redgrave
+1985,ACTRESS IN A SUPPORTING ROLE,The Natural,Glenn Close
+1985,ACTRESS IN A SUPPORTING ROLE,The Pope of Greenwich Village,Geraldine Page
+1985,ACTRESS IN A LEADING ROLE,The River,Sissy Spacek
+1986,ACTRESS IN A LEADING ROLE,Agnes of God,Anne Bancroft
+1986,ACTRESS IN A SUPPORTING ROLE,Agnes of God,Meg Tilly
+1986,ACTRESS IN A LEADING ROLE,Out of Africa,Meryl Streep
+1986,ACTRESS IN A SUPPORTING ROLE,Prizzi's Honor,Anjelica Huston
+1986,ACTRESS IN A LEADING ROLE,Sweet Dreams,Jessica Lange
+1986,ACTRESS IN A LEADING ROLE,The Color Purple (1985),Whoopi Goldberg
+1986,ACTRESS IN A SUPPORTING ROLE,The Color Purple (1985),Margaret Avery
+1986,ACTRESS IN A SUPPORTING ROLE,The Color Purple (1985),Oprah Winfrey
+1986,ACTRESS IN A LEADING ROLE,The Trip to Bountiful,Geraldine Page
+1986,ACTRESS IN A SUPPORTING ROLE,Twice in a Lifetime,Amy Madigan
+1987,ACTRESS IN A SUPPORTING ROLE,A Room with a View,Maggie Smith
+1987,ACTRESS IN A LEADING ROLE,Aliens,Sigourney Weaver
+1987,ACTRESS IN A LEADING ROLE,Children of a Lesser God,Marlee Matlin
+1987,ACTRESS IN A SUPPORTING ROLE,Children of a Lesser God,Piper Laurie
+1987,ACTRESS IN A LEADING ROLE,Crimes of the Heart,Sissy Spacek
+1987,ACTRESS IN A SUPPORTING ROLE,Crimes of the Heart,Tess Harper
+1987,ACTRESS IN A SUPPORTING ROLE,Hannah and Her Sisters,Dianne Wiest
+1987,ACTRESS IN A LEADING ROLE,Peggy Sue Got Married,Kathleen Turner
+1987,ACTRESS IN A SUPPORTING ROLE,The Color of Money,Mary Elizabeth Mastrantonio
+1987,ACTRESS IN A LEADING ROLE,The Morning After,Jane Fonda
+1988,ACTRESS IN A LEADING ROLE,Anna,Sally Kirkland
+1988,ACTRESS IN A LEADING ROLE,Broadcast News,Holly Hunter
+1988,ACTRESS IN A LEADING ROLE,Fatal Attraction,Glenn Close
+1988,ACTRESS IN A SUPPORTING ROLE,Fatal Attraction,Anne Archer
+1988,ACTRESS IN A SUPPORTING ROLE,Gaby - A True Story,Norma Aleandro
+1988,ACTRESS IN A LEADING ROLE,Ironweed,Meryl Streep
+1988,ACTRESS IN A LEADING ROLE,Moonstruck,Cher
+1988,ACTRESS IN A SUPPORTING ROLE,Moonstruck,Olympia Dukakis
+1988,ACTRESS IN A SUPPORTING ROLE,The Whales of August,Ann Sothern
+1988,ACTRESS IN A SUPPORTING ROLE,Throw Momma from the Train,Anne Ramsey
+1989,ACTRESS IN A LEADING ROLE,A Cry in the Dark,Meryl Streep
+1989,ACTRESS IN A LEADING ROLE,Dangerous Liaisons,Glenn Close
+1989,ACTRESS IN A SUPPORTING ROLE,Dangerous Liaisons,Michelle Pfeiffer
+1989,ACTRESS IN A LEADING ROLE,Gorillas in the Mist,Sigourney Weaver
+1989,ACTRESS IN A SUPPORTING ROLE,Mississippi Burning,Frances McDormand
+1989,ACTRESS IN A SUPPORTING ROLE,The Accidental Tourist,Geena Davis
+1989,ACTRESS IN A LEADING ROLE,The Accused,Jodie Foster
+1989,ACTRESS IN A LEADING ROLE,Working Girl,Melanie Griffith
+1989,ACTRESS IN A SUPPORTING ROLE,Working Girl,Joan Cusack
+1989,ACTRESS IN A SUPPORTING ROLE,Working Girl,Sigourney Weaver
+1990,ACTRESS IN A LEADING ROLE,Camille Claudel,Isabelle Adjani
+1990,ACTRESS IN A LEADING ROLE,Driving Miss Daisy,Jessica Tandy
+1990,ACTRESS IN A SUPPORTING ROLE,"Enemies, A Love Story",Lena Olin
+1990,ACTRESS IN A SUPPORTING ROLE,"Enemies, A Love Story",Anjelica Huston
+1990,ACTRESS IN A LEADING ROLE,Music Box,Jessica Lange
+1990,ACTRESS IN A SUPPORTING ROLE,My Left Foot,Brenda Fricker
+1990,ACTRESS IN A SUPPORTING ROLE,Parenthood,Dianne Wiest
+1990,ACTRESS IN A LEADING ROLE,Shirley Valentine,Pauline Collins
+1990,ACTRESS IN A SUPPORTING ROLE,Steel Magnolias,Julia Roberts
+1990,ACTRESS IN A LEADING ROLE,The Fabulous Baker Boys,Michelle Pfeiffer
+1991,ACTRESS IN A SUPPORTING ROLE,Dances With Wolves,Mary McDonnell
+1991,ACTRESS IN A SUPPORTING ROLE,Ghost,Whoopi Goldberg
+1991,ACTRESS IN A SUPPORTING ROLE,Good Fellas,Lorraine Bracco
+1991,ACTRESS IN A LEADING ROLE,Misery,Kathy Bates
+1991,ACTRESS IN A LEADING ROLE,Mr. & Mrs. Bridge,Joanne Woodward
+1991,ACTRESS IN A LEADING ROLE,Postcards from the Edge,Meryl Streep
+1991,ACTRESS IN A LEADING ROLE,Pretty Woman,Julia Roberts
+1991,ACTRESS IN A LEADING ROLE,The Grifters,Anjelica Huston
+1991,ACTRESS IN A SUPPORTING ROLE,The Grifters,Annette Bening
+1991,ACTRESS IN A SUPPORTING ROLE,Wild at Heart,Diane Ladd
+1992,ACTRESS IN A SUPPORTING ROLE,Cape Fear,Juliette Lewis
+1992,ACTRESS IN A LEADING ROLE,For the Boys,Bette Midler
+1992,ACTRESS IN A SUPPORTING ROLE,Fried Green Tomatoes,Jessica Tandy
+1992,ACTRESS IN A LEADING ROLE,Rambling Rose,Laura Dern
+1992,ACTRESS IN A SUPPORTING ROLE,Rambling Rose,Diane Ladd
+1992,ACTRESS IN A SUPPORTING ROLE,The Fisher King,Mercedes Ruehl
+1992,ACTRESS IN A SUPPORTING ROLE,The Prince of Tides,Kate Nelligan
+1992,ACTRESS IN A LEADING ROLE,The Silence of the Lambs,Jodie Foster
+1992,ACTRESS IN A LEADING ROLE,Thelma & Louise,Geena Davis
+1992,ACTRESS IN A LEADING ROLE,Thelma & Louise,Susan Sarandon
+1993,ACTRESS IN A SUPPORTING ROLE,Damage,Miranda Richardson
+1993,ACTRESS IN A SUPPORTING ROLE,Enchanted April,Joan Plowright
+1993,ACTRESS IN A LEADING ROLE,Howards End,Emma Thompson
+1993,ACTRESS IN A SUPPORTING ROLE,Howards End,Vanessa Redgrave
+1993,ACTRESS IN A SUPPORTING ROLE,Husbands and Wives,Judy Davis
+1993,ACTRESS IN A LEADING ROLE,Indochine,Catherine Deneuve
+1993,ACTRESS IN A LEADING ROLE,Lorenzo's Oil,Susan Sarandon
+1993,ACTRESS IN A LEADING ROLE,Love Field,Michelle Pfeiffer
+1993,ACTRESS IN A SUPPORTING ROLE,My Cousin Vinny,Marisa Tomei
+1993,ACTRESS IN A LEADING ROLE,Passion Fish,Mary McDonnell
+1994,ACTRESS IN A SUPPORTING ROLE,Fearless,Rosie Perez
+1994,ACTRESS IN A SUPPORTING ROLE,In the Name of the Father,Emma Thompson
+1994,ACTRESS IN A LEADING ROLE,Shadowlands,Debra Winger
+1994,ACTRESS IN A LEADING ROLE,Six Degrees of Separation,Stockard Channing
+1994,ACTRESS IN A SUPPORTING ROLE,The Age of Innocence,Winona Ryder
+1994,ACTRESS IN A SUPPORTING ROLE,The Firm,Holly Hunter
+1994,ACTRESS IN A LEADING ROLE,The Piano,Holly Hunter
+1994,ACTRESS IN A SUPPORTING ROLE,The Piano,Anna Paquin
+1994,ACTRESS IN A LEADING ROLE,The Remains of the Day,Emma Thompson
+1994,ACTRESS IN A LEADING ROLE,What's Love Got to Do with It,Angela Bassett
+1995,ACTRESS IN A LEADING ROLE,Blue Sky,Jessica Lange
+1995,ACTRESS IN A SUPPORTING ROLE,Bullets over Broadway,Jennifer Tilly
+1995,ACTRESS IN A SUPPORTING ROLE,Bullets over Broadway,Dianne Wiest
+1995,ACTRESS IN A LEADING ROLE,Little Women (1994),Winona Ryder
+1995,ACTRESS IN A LEADING ROLE,Nell,Jodie Foster
+1995,ACTRESS IN A SUPPORTING ROLE,Pulp Fiction,Uma Thurman
+1995,ACTRESS IN A LEADING ROLE,The Client,Susan Sarandon
+1995,ACTRESS IN A SUPPORTING ROLE,The Madness of King George,Helen Mirren
+1995,ACTRESS IN A LEADING ROLE,Tom & Viv,Miranda Richardson
+1995,ACTRESS IN A SUPPORTING ROLE,Tom & Viv,Rosemary Harris
+1996,ACTRESS IN A SUPPORTING ROLE,Apollo 13,Kathleen Quinlan
+1996,ACTRESS IN A LEADING ROLE,Casino,Sharon Stone
+1996,ACTRESS IN A LEADING ROLE,Dead Man Walking,Susan Sarandon
+1996,ACTRESS IN A SUPPORTING ROLE,Georgia,Mare Winningham
+1996,ACTRESS IN A LEADING ROLE,Leaving Las Vegas,Elisabeth Shue
+1996,ACTRESS IN A SUPPORTING ROLE,Mighty Aphrodite,Mira Sorvino
+1996,ACTRESS IN A SUPPORTING ROLE,Nixon,Joan Allen
+1996,ACTRESS IN A LEADING ROLE,Sense and Sensibility,Emma Thompson
+1996,ACTRESS IN A SUPPORTING ROLE,Sense and Sensibility,Kate Winslet
+1996,ACTRESS IN A LEADING ROLE,The Bridges of Madison County,Meryl Streep
+1997,ACTRESS IN A LEADING ROLE,Breaking the Waves,Emily Watson
+1997,ACTRESS IN A LEADING ROLE,Fargo,Frances McDormand
+1997,ACTRESS IN A LEADING ROLE,Marvin's Room,Diane Keaton
+1997,ACTRESS IN A LEADING ROLE,Secrets & Lies,Brenda Blethyn
+1997,ACTRESS IN A SUPPORTING ROLE,Secrets & Lies,Marianne Jean-Baptiste
+1997,ACTRESS IN A SUPPORTING ROLE,The Crucible,Joan Allen
+1997,ACTRESS IN A LEADING ROLE,The English Patient,Kristin Scott Thomas
+1997,ACTRESS IN A SUPPORTING ROLE,The English Patient,Juliette Binoche
+1997,ACTRESS IN A SUPPORTING ROLE,The Mirror Has Two Faces,Lauren Bacall
+1997,ACTRESS IN A SUPPORTING ROLE,The Portrait of a Lady,Barbara Hershey
+1998,ACTRESS IN A LEADING ROLE,Afterglow,Julie Christie
+1998,ACTRESS IN A LEADING ROLE,As Good as It Gets,Helen Hunt
+1998,ACTRESS IN A SUPPORTING ROLE,Boogie Nights,Julianne Moore
+1998,ACTRESS IN A SUPPORTING ROLE,Good Will Hunting,Minnie Driver
+1998,ACTRESS IN A SUPPORTING ROLE,In & Out,Joan Cusack
+1998,ACTRESS IN A SUPPORTING ROLE,L.A. Confidential,Kim Basinger
+1998,ACTRESS IN A LEADING ROLE,Mrs. Brown,Judi Dench
+1998,ACTRESS IN A LEADING ROLE,The Wings of the Dove,Helena Bonham Carter
+1998,ACTRESS IN A LEADING ROLE,Titanic (1997),Kate Winslet
+1998,ACTRESS IN A SUPPORTING ROLE,Titanic (1997),Gloria Stuart
+1999,ACTRESS IN A LEADING ROLE,Central Station,Fernanda Montenegro
+1999,ACTRESS IN A LEADING ROLE,Elizabeth,Cate Blanchett
+1999,ACTRESS IN A SUPPORTING ROLE,Gods and Monsters,Lynn Redgrave
+1999,ACTRESS IN A LEADING ROLE,Hilary and Jackie,Emily Watson
+1999,ACTRESS IN A SUPPORTING ROLE,Hilary and Jackie,Rachel Griffiths
+1999,ACTRESS IN A SUPPORTING ROLE,Little Voice,Brenda Blethyn
+1999,ACTRESS IN A LEADING ROLE,One True Thing,Meryl Streep
+1999,ACTRESS IN A SUPPORTING ROLE,Primary Colors,Kathy Bates
+1999,ACTRESS IN A LEADING ROLE,Shakespeare in Love,Gwyneth Paltrow
+1999,ACTRESS IN A SUPPORTING ROLE,Shakespeare in Love,Judi Dench
+2000,ACTRESS IN A LEADING ROLE,American Beauty,Annette Bening
+2000,ACTRESS IN A SUPPORTING ROLE,Being John Malkovich,Catherine Keener
+2000,ACTRESS IN A LEADING ROLE,Boys Don't Cry,Hilary Swank
+2000,ACTRESS IN A SUPPORTING ROLE,Boys Don't Cry,Chloë Sevigny
+2000,ACTRESS IN A SUPPORTING ROLE,"Girl, Interrupted",Angelina Jolie
+2000,ACTRESS IN A LEADING ROLE,Music of the Heart,Meryl Streep
+2000,ACTRESS IN A SUPPORTING ROLE,Sweet and Lowdown,Samantha Morton
+2000,ACTRESS IN A LEADING ROLE,The End of the Affair,Julianne Moore
+2000,ACTRESS IN A SUPPORTING ROLE,The Sixth Sense,Toni Collette
+2000,ACTRESS IN A LEADING ROLE,Tumbleweeds,Janet McTeer
+2001,ACTRESS IN A SUPPORTING ROLE,Almost Famous,Frances McDormand
+2001,ACTRESS IN A SUPPORTING ROLE,Almost Famous,Kate Hudson
+2001,ACTRESS IN A SUPPORTING ROLE,Billy Elliot,Julie Walters
+2001,ACTRESS IN A LEADING ROLE,Chocolat,Juliette Binoche
+2001,ACTRESS IN A SUPPORTING ROLE,Chocolat,Judi Dench
+2001,ACTRESS IN A LEADING ROLE,Erin Brockovich,Julia Roberts
+2001,ACTRESS IN A SUPPORTING ROLE,Pollock,Marcia Gay Harden
+2001,ACTRESS IN A LEADING ROLE,Requiem for a Dream,Ellen Burstyn
+2001,ACTRESS IN A LEADING ROLE,The Contender,Joan Allen
+2001,ACTRESS IN A LEADING ROLE,You Can Count on Me,Laura Linney
+2002,ACTRESS IN A SUPPORTING ROLE,A Beautiful Mind,Jennifer Connelly
+2002,ACTRESS IN A LEADING ROLE,Bridget Jones's Diary,Renée Zellweger
+2002,ACTRESS IN A SUPPORTING ROLE,Gosford Park,Helen Mirren
+2002,ACTRESS IN A SUPPORTING ROLE,Gosford Park,Maggie Smith
+2002,ACTRESS IN A LEADING ROLE,In the Bedroom,Sissy Spacek
+2002,ACTRESS IN A SUPPORTING ROLE,In the Bedroom,Marisa Tomei
+2002,ACTRESS IN A LEADING ROLE,Iris,Judi Dench
+2002,ACTRESS IN A SUPPORTING ROLE,Iris,Kate Winslet
+2002,ACTRESS IN A LEADING ROLE,Monster's Ball,Halle Berry
+2002,ACTRESS IN A LEADING ROLE,Moulin Rouge (2001),Nicole Kidman
+2003,ACTRESS IN A SUPPORTING ROLE,About Schmidt,Kathy Bates
+2003,ACTRESS IN A SUPPORTING ROLE,Adaptation,Meryl Streep
+2003,ACTRESS IN A LEADING ROLE,Chicago,Renée Zellweger
+2003,ACTRESS IN A SUPPORTING ROLE,Chicago,Queen Latifah
+2003,ACTRESS IN A SUPPORTING ROLE,Chicago,Catherine Zeta-Jones
+2003,ACTRESS IN A LEADING ROLE,Far from Heaven,Julianne Moore
+2003,ACTRESS IN A LEADING ROLE,Frida,Salma Hayek
+2003,ACTRESS IN A LEADING ROLE,The Hours,Nicole Kidman
+2003,ACTRESS IN A SUPPORTING ROLE,The Hours,Julianne Moore
+2003,ACTRESS IN A LEADING ROLE,Unfaithful,Diane Lane
+2004,ACTRESS IN A LEADING ROLE,21 Grams,Naomi Watts
+2004,ACTRESS IN A SUPPORTING ROLE,Cold Mountain,Renée Zellweger
+2004,ACTRESS IN A SUPPORTING ROLE,House of Sand and Fog,Shohreh Aghdashloo
+2004,ACTRESS IN A LEADING ROLE,In America,Samantha Morton
+2004,ACTRESS IN A LEADING ROLE,Monster,Charlize Theron
+2004,ACTRESS IN A SUPPORTING ROLE,Mystic River,Marcia Gay Harden
+2004,ACTRESS IN A SUPPORTING ROLE,Pieces of April,Patricia Clarkson
+2004,ACTRESS IN A LEADING ROLE,Something's Gotta Give,Diane Keaton
+2004,ACTRESS IN A SUPPORTING ROLE,Thirteen,Holly Hunter
+2004,ACTRESS IN A LEADING ROLE,Whale Rider,Keisha Castle-Hughes
+2005,ACTRESS IN A LEADING ROLE,Being Julia,Annette Bening
+2005,ACTRESS IN A SUPPORTING ROLE,Closer,Natalie Portman
+2005,ACTRESS IN A LEADING ROLE,Eternal Sunshine of the Spotless Mind,Kate Winslet
+2005,ACTRESS IN A SUPPORTING ROLE,Hotel Rwanda,Sophie Okonedo
+2005,ACTRESS IN A SUPPORTING ROLE,Kinsey,Laura Linney
+2005,ACTRESS IN A LEADING ROLE,Maria Full of Grace,Catalina Sandino Moreno
+2005,ACTRESS IN A LEADING ROLE,Million Dollar Baby,Hilary Swank
+2005,ACTRESS IN A SUPPORTING ROLE,Sideways,Virginia Madsen
+2005,ACTRESS IN A SUPPORTING ROLE,The Aviator,Cate Blanchett
+2005,ACTRESS IN A LEADING ROLE,Vera Drake,Imelda Staunton
+2006,ACTRESS IN A SUPPORTING ROLE,Brokeback Mountain,Michelle Williams
+2006,ACTRESS IN A SUPPORTING ROLE,Capote,Catherine Keener
+2006,ACTRESS IN A SUPPORTING ROLE,Junebug,Amy Adams
+2006,ACTRESS IN A LEADING ROLE,Mrs. Henderson Presents,Judi Dench
+2006,ACTRESS IN A LEADING ROLE,North Country,Charlize Theron
+2006,ACTRESS IN A SUPPORTING ROLE,North Country,Frances McDormand
+2006,ACTRESS IN A LEADING ROLE,Pride & Prejudice,Keira Knightley
+2006,ACTRESS IN A SUPPORTING ROLE,The Constant Gardener,Rachel Weisz
+2006,ACTRESS IN A LEADING ROLE,Transamerica,Felicity Huffman
+2006,ACTRESS IN A LEADING ROLE,Walk the Line,Reese Witherspoon
+2007,ACTRESS IN A SUPPORTING ROLE,Babel,Rinko Kikuchi
+2007,ACTRESS IN A SUPPORTING ROLE,Babel,Adriana Barraza
+2007,ACTRESS IN A SUPPORTING ROLE,Dreamgirls,Jennifer Hudson
+2007,ACTRESS IN A LEADING ROLE,Little Children,Kate Winslet
+2007,ACTRESS IN A SUPPORTING ROLE,Little Miss Sunshine,Abigail Breslin
+2007,ACTRESS IN A LEADING ROLE,Notes on a Scandal,Judi Dench
+2007,ACTRESS IN A SUPPORTING ROLE,Notes on a Scandal,Cate Blanchett
+2007,ACTRESS IN A LEADING ROLE,The Devil Wears Prada,Meryl Streep
+2007,ACTRESS IN A LEADING ROLE,The Queen,Helen Mirren
+2007,ACTRESS IN A LEADING ROLE,Volver,Penélope Cruz
+2008,ACTRESS IN A SUPPORTING ROLE,American Gangster,Ruby Dee
+2008,ACTRESS IN A SUPPORTING ROLE,Atonement,Saoirse Ronan
+2008,ACTRESS IN A LEADING ROLE,Away from Her,Julie Christie
+2008,ACTRESS IN A LEADING ROLE,Elizabeth: The Golden Age,Cate Blanchett
+2008,ACTRESS IN A SUPPORTING ROLE,Gone Baby Gone,Amy Ryan
+2008,ACTRESS IN A SUPPORTING ROLE,I'm Not There,Cate Blanchett
+2008,ACTRESS IN A LEADING ROLE,Juno,Ellen Page
+2008,ACTRESS IN A LEADING ROLE,La Vie en Rose,Marion Cotillard
+2008,ACTRESS IN A SUPPORTING ROLE,Michael Clayton,Tilda Swinton
+2008,ACTRESS IN A LEADING ROLE,The Savages,Laura Linney
+2009,ACTRESS IN A LEADING ROLE,Changeling,Angelina Jolie
+2009,ACTRESS IN A LEADING ROLE,Doubt,Meryl Streep
+2009,ACTRESS IN A SUPPORTING ROLE,Doubt,Amy Adams
+2009,ACTRESS IN A SUPPORTING ROLE,Doubt,Viola Davis
+2009,ACTRESS IN A LEADING ROLE,Frozen River,Melissa Leo
+2009,ACTRESS IN A LEADING ROLE,Rachel Getting Married,Anne Hathaway
+2009,ACTRESS IN A SUPPORTING ROLE,The Curious Case of Benjamin Button,Taraji P. Henson
+2009,ACTRESS IN A LEADING ROLE,The Reader,Kate Winslet
+2009,ACTRESS IN A SUPPORTING ROLE,The Wrestler,Marisa Tomei
+2009,ACTRESS IN A SUPPORTING ROLE,Vicky Cristina Barcelona,Penélope Cruz
+2010,ACTRESS IN A LEADING ROLE,An Education,Carey Mulligan
+2010,ACTRESS IN A SUPPORTING ROLE,Crazy Heart,Maggie Gyllenhaal
+2010,ACTRESS IN A LEADING ROLE,Julie & Julia,Meryl Streep
+2010,ACTRESS IN A SUPPORTING ROLE,Nine,Penélope Cruz
+2010,ACTRESS IN A LEADING ROLE,Precious: Based on the Novel 'Push' by Sapphire,Gabourey Sidibe
+2010,ACTRESS IN A SUPPORTING ROLE,Precious: Based on the Novel 'Push' by Sapphire,Mo'Nique
+2010,ACTRESS IN A LEADING ROLE,The Blind Side,Sandra Bullock
+2010,ACTRESS IN A LEADING ROLE,The Last Station,Helen Mirren
+2010,ACTRESS IN A SUPPORTING ROLE,Up in the Air,Anna Kendrick
+2010,ACTRESS IN A SUPPORTING ROLE,Up in the Air,Vera Farmiga
+2011,ACTRESS IN A SUPPORTING ROLE,Animal Kingdom,Jacki Weaver
+2011,ACTRESS IN A LEADING ROLE,Black Swan,Natalie Portman
+2011,ACTRESS IN A LEADING ROLE,Blue Valentine,Michelle Williams
+2011,ACTRESS IN A LEADING ROLE,Rabbit Hole,Nicole Kidman
+2011,ACTRESS IN A SUPPORTING ROLE,The Fighter,Amy Adams
+2011,ACTRESS IN A SUPPORTING ROLE,The Fighter,Melissa Leo
+2011,ACTRESS IN A LEADING ROLE,The Kids Are All Right,Annette Bening
+2011,ACTRESS IN A SUPPORTING ROLE,The King's Speech,Helena Bonham Carter
+2011,ACTRESS IN A SUPPORTING ROLE,True Grit (2010),Hailee Steinfeld
+2011,ACTRESS IN A LEADING ROLE,Winter's Bone,Jennifer Lawrence
+2012,ACTRESS IN A LEADING ROLE,Albert Nobbs,Glenn Close
+2012,ACTRESS IN A SUPPORTING ROLE,Albert Nobbs,Janet McTeer
+2012,ACTRESS IN A SUPPORTING ROLE,Bridesmaids,Melissa McCarthy
+2012,ACTRESS IN A LEADING ROLE,My Week with Marilyn,Michelle Williams
+2012,ACTRESS IN A SUPPORTING ROLE,The Artist,Bérénice Bejo
+2012,ACTRESS IN A LEADING ROLE,The Girl with the Dragon Tattoo,Rooney Mara
+2012,ACTRESS IN A LEADING ROLE,The Help,Viola Davis
+2012,ACTRESS IN A SUPPORTING ROLE,The Help,Octavia Spencer
+2012,ACTRESS IN A SUPPORTING ROLE,The Help,Jessica Chastain
+2012,ACTRESS IN A LEADING ROLE,The Iron Lady,Meryl Streep
+2013,ACTRESS IN A LEADING ROLE,Amour,Emmanuelle Riva
+2013,ACTRESS IN A LEADING ROLE,Beasts of the Southern Wild,Quvenzhané Wallis
+2013,ACTRESS IN A SUPPORTING ROLE,Les Misérables (2012),Anne Hathaway
+2013,ACTRESS IN A SUPPORTING ROLE,Lincoln,Sally Field
+2013,ACTRESS IN A LEADING ROLE,Silver Linings Playbook,Jennifer Lawrence
+2013,ACTRESS IN A SUPPORTING ROLE,Silver Linings Playbook,Jacki Weaver
+2013,ACTRESS IN A LEADING ROLE,The Impossible,Naomi Watts
+2013,ACTRESS IN A SUPPORTING ROLE,The Master,Amy Adams
+2013,ACTRESS IN A SUPPORTING ROLE,The Sessions,Helen Hunt
+2013,ACTRESS IN A LEADING ROLE,Zero Dark Thirty,Jessica Chastain
+2014,ACTRESS IN A SUPPORTING ROLE,12 Years a Slave,Lupita Nyong'o
+2014,ACTRESS IN A LEADING ROLE,American Hustle,Amy Adams
+2014,ACTRESS IN A SUPPORTING ROLE,American Hustle,Jennifer Lawrence
+2014,ACTRESS IN A LEADING ROLE,August: Osage County,Meryl Streep
+2014,ACTRESS IN A SUPPORTING ROLE,August: Osage County,Julia Roberts
+2014,ACTRESS IN A LEADING ROLE,Blue Jasmine,Cate Blanchett
+2014,ACTRESS IN A SUPPORTING ROLE,Blue Jasmine,Sally Hawkins
+2014,ACTRESS IN A LEADING ROLE,Gravity,Sandra Bullock
+2014,ACTRESS IN A SUPPORTING ROLE,Nebraska,June Squibb
+2014,ACTRESS IN A LEADING ROLE,Philomena,Judi Dench
+2015,ACTRESS IN A SUPPORTING ROLE,Birdman or (The Unexpected Virtue of Ignorance),Emma Stone
+2015,ACTRESS IN A SUPPORTING ROLE,Boyhood,Patricia Arquette
+2015,ACTRESS IN A LEADING ROLE,Gone Girl,Rosamund Pike
+2015,ACTRESS IN A SUPPORTING ROLE,Into the Woods,Meryl Streep
+2015,ACTRESS IN A LEADING ROLE,Still Alice,Julianne Moore
+2015,ACTRESS IN A SUPPORTING ROLE,The Imitation Game,Keira Knightley
+2015,ACTRESS IN A LEADING ROLE,The Theory of Everything,Felicity Jones
+2015,ACTRESS IN A LEADING ROLE,"Two Days, One Night",Marion Cotillard
+2015,ACTRESS IN A LEADING ROLE,Wild,Reese Witherspoon
+2015,ACTRESS IN A SUPPORTING ROLE,Wild,Laura Dern
+2016,ACTRESS IN A LEADING ROLE,45 Years,Charlotte Rampling
+2016,ACTRESS IN A LEADING ROLE,Brooklyn,Saoirse Ronan
+2016,ACTRESS IN A LEADING ROLE,Carol,Cate Blanchett
+2016,ACTRESS IN A SUPPORTING ROLE,Carol,Rooney Mara
+2016,ACTRESS IN A LEADING ROLE,Joy,Jennifer Lawrence
+2016,ACTRESS IN A LEADING ROLE,Room,Brie Larson
+2016,ACTRESS IN A SUPPORTING ROLE,Spotlight,Rachel McAdams
+2016,ACTRESS IN A SUPPORTING ROLE,Steve Jobs,Kate Winslet
+2016,ACTRESS IN A SUPPORTING ROLE,The Danish Girl,Alicia Vikander
+2016,ACTRESS IN A SUPPORTING ROLE,The Hateful Eight,Jennifer Jason Leigh
+2017,ACTRESS IN A LEADING ROLE,Elle,Isabelle Huppert
+2017,ACTRESS IN A SUPPORTING ROLE,Fences,Viola Davis
+2017,ACTRESS IN A LEADING ROLE,Florence Foster Jenkins,Meryl Streep
+2017,ACTRESS IN A SUPPORTING ROLE,Hidden Figures,Octavia Spencer
+2017,ACTRESS IN A LEADING ROLE,Jackie,Natalie Portman
+2017,ACTRESS IN A LEADING ROLE,La La Land,Emma Stone
+2017,ACTRESS IN A SUPPORTING ROLE,Lion,Nicole Kidman
+2017,ACTRESS IN A LEADING ROLE,Loving,Ruth Negga
+2017,ACTRESS IN A SUPPORTING ROLE,Manchester by the Sea,Michelle Williams
+2017,ACTRESS IN A SUPPORTING ROLE,Moonlight,Naomie Harris
+2018,ACTRESS IN A LEADING ROLE,"I, Tonya",Margot Robbie
+2018,ACTRESS IN A SUPPORTING ROLE,"I, Tonya",Allison Janney
+2018,ACTRESS IN A LEADING ROLE,Lady Bird,Saoirse Ronan
+2018,ACTRESS IN A SUPPORTING ROLE,Lady Bird,Laurie Metcalf
+2018,ACTRESS IN A SUPPORTING ROLE,Mudbound,Mary J. Blige
+2018,ACTRESS IN A SUPPORTING ROLE,Phantom Thread,Lesley Manville
+2018,ACTRESS IN A LEADING ROLE,The Post,Meryl Streep
+2018,ACTRESS IN A LEADING ROLE,The Shape of Water,Sally Hawkins
+2018,ACTRESS IN A SUPPORTING ROLE,The Shape of Water,Octavia Spencer
+2018,ACTRESS IN A LEADING ROLE,"Three Billboards outside Ebbing, Missouri",Frances McDormand
+2019,ACTRESS IN A LEADING ROLE,A Star Is Born (2018),Lady Gaga
+2019,ACTRESS IN A LEADING ROLE,Can You Ever Forgive Me?,Melissa McCarthy
+2019,ACTRESS IN A SUPPORTING ROLE,If Beale Street Could Talk,Regina King
+2019,ACTRESS IN A LEADING ROLE,Roma,Yalitza Aparicio
+2019,ACTRESS IN A SUPPORTING ROLE,Roma,Marina de Tavira
+2019,ACTRESS IN A LEADING ROLE,The Favourite,Olivia Colman
+2019,ACTRESS IN A SUPPORTING ROLE,The Favourite,Emma Stone
+2019,ACTRESS IN A SUPPORTING ROLE,The Favourite,Rachel Weisz
+2019,ACTRESS IN A LEADING ROLE,The Wife,Glenn Close
+2019,ACTRESS IN A SUPPORTING ROLE,Vice,Amy Adams
+2020,ACTRESS IN A LEADING ROLE,Bombshell,Charlize Theron
+2020,ACTRESS IN A SUPPORTING ROLE,Bombshell,Margot Robbie
+2020,ACTRESS IN A LEADING ROLE,Harriet,Cynthia Erivo
+2020,ACTRESS IN A SUPPORTING ROLE,Jojo Rabbit,Scarlett Johansson
+2020,ACTRESS IN A LEADING ROLE,Judy,Renée Zellweger
+2020,ACTRESS IN A LEADING ROLE,Little Women (2019),Saoirse Ronan
+2020,ACTRESS IN A SUPPORTING ROLE,Little Women (2019),Florence Pugh
+2020,ACTRESS IN A LEADING ROLE,Marriage Story,Scarlett Johansson
+2020,ACTRESS IN A SUPPORTING ROLE,Marriage Story,Laura Dern
+2020,ACTRESS IN A SUPPORTING ROLE,Richard Jewell,Kathy Bates
+2021,ACTRESS IN A SUPPORTING ROLE,Borat Subsequent Moviefilm: Delivery of Prodigious Bribe to American Regime for Make Benefit Once Glorious Nation of Kazakhstan,Maria Bakalova
+2021,ACTRESS IN A SUPPORTING ROLE,Hillbilly Elegy,Glenn Close
+2021,ACTRESS IN A LEADING ROLE,Ma Rainey's Black Bottom,Viola Davis
+2021,ACTRESS IN A SUPPORTING ROLE,Mank,Amanda Seyfried
+2021,ACTRESS IN A SUPPORTING ROLE,Minari,Yuh-Jung Youn
+2021,ACTRESS IN A LEADING ROLE,Nomadland,Frances McDormand
+2021,ACTRESS IN A LEADING ROLE,Pieces of a Woman,Vanessa Kirby
+2021,ACTRESS IN A LEADING ROLE,Promising Young Woman,Carey Mulligan
+2021,ACTRESS IN A SUPPORTING ROLE,The Father,Olivia Colman
+2021,ACTRESS IN A LEADING ROLE,The United States vs. Billie Holiday,Andra Day
+2022,ACTRESS IN A LEADING ROLE,Being the Ricardos,Nicole Kidman
+2022,ACTRESS IN A SUPPORTING ROLE,Belfast,Judi Dench
+2022,ACTRESS IN A SUPPORTING ROLE,King Richard,Aunjanue Ellis
+2022,ACTRESS IN A LEADING ROLE,Parallel Mothers,Penélope Cruz
+2022,ACTRESS IN A LEADING ROLE,Spencer,Kristen Stewart
+2022,ACTRESS IN A LEADING ROLE,The Eyes of Tammy Faye,Jessica Chastain
+2022,ACTRESS IN A LEADING ROLE,The Lost Daughter,Olivia Colman
+2022,ACTRESS IN A SUPPORTING ROLE,The Lost Daughter,Jessie Buckley
+2022,ACTRESS IN A SUPPORTING ROLE,The Power of the Dog,Kirsten Dunst
+2022,ACTRESS IN A SUPPORTING ROLE,West Side Story (2021),Ariana DeBose
+2023,ACTRESS IN A SUPPORTING ROLE,Black Panther: Wakanda Forever,Angela Bassett
+2023,ACTRESS IN A LEADING ROLE,Blonde,Ana de Armas
+2023,ACTRESS IN A LEADING ROLE,Everything Everywhere All at Once,Michelle Yeoh
+2023,ACTRESS IN A SUPPORTING ROLE,Everything Everywhere All at Once,Jamie Lee Curtis
+2023,ACTRESS IN A SUPPORTING ROLE,Everything Everywhere All at Once,Stephanie Hsu
+2023,ACTRESS IN A SUPPORTING ROLE,The Banshees of Inisherin,Kerry Condon
+2023,ACTRESS IN A LEADING ROLE,The Fabelmans,Michelle Williams
+2023,ACTRESS IN A SUPPORTING ROLE,The Whale,Hong Chau
+2023,ACTRESS IN A LEADING ROLE,To Leslie,Andrea Riseborough
+2023,ACTRESS IN A LEADING ROLE,Tár,Cate Blanchett
+2024,ACTRESS IN A LEADING ROLE,Anatomy of a Fall,Sandra Hüller
+2024,ACTRESS IN A SUPPORTING ROLE,Barbie,America Ferrera
+2024,ACTRESS IN A LEADING ROLE,Killers of the Flower Moon,Lily Gladstone
+2024,ACTRESS IN A LEADING ROLE,Maestro (2023),Carey Mulligan
+2024,ACTRESS IN A LEADING ROLE,Nyad,Annette Bening
+2024,ACTRESS IN A SUPPORTING ROLE,Nyad,Jodie Foster
+2024,ACTRESS IN A SUPPORTING ROLE,Oppenheimer,Emily Blunt
+2024,ACTRESS IN A LEADING ROLE,Poor Things,Emma Stone
+2024,ACTRESS IN A SUPPORTING ROLE,The Color Purple (2023),Danielle Brooks
+2024,ACTRESS IN A SUPPORTING ROLE,The Holdovers,Da'Vine Joy Randolph

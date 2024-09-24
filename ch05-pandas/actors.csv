@@ -1,0 +1,913 @@
+year_ceremony,category,film,name
+1928,ACTOR,The Last Command,Emil Jannings
+1928,ACTOR,The Noose,Richard Barthelmess
+1929,ACTOR,Alibi,Chester Morris
+1929,ACTOR,In Old Arizona,Warner Baxter
+1929,ACTOR,The Patriot (1928),Lewis Stone
+1929,ACTOR,The Valiant,Paul Muni
+1929,ACTOR,Thunderbolt,George Bancroft
+1930,ACTOR,Bulldog Drummond,Ronald Colman
+1930,ACTOR,Disraeli,George Arliss
+1930,ACTOR,The Big House,Wallace Beery
+1930,ACTOR,The Big Pond,Maurice Chevalier
+1930,ACTOR,The Green Goddess,George Arliss
+1930,ACTOR,The Rogue Song,Lawrence Tibbett
+1931,ACTOR,A Free Soul,Lionel Barrymore
+1931,ACTOR,Cimarron (1930),Richard Dix
+1931,ACTOR,Skippy,Jackie Cooper
+1931,ACTOR,The Front Page,Adolphe Menjou
+1931,ACTOR,The Royal Family of Broadway,Fredric March
+1932,ACTOR,Dr. Jekyll and Mr. Hyde (1931),Fredric March
+1932,ACTOR,The Champ (1931),Wallace Beery
+1932,ACTOR,The Guardsman,Alfred Lunt
+1933,ACTOR,Berkeley Square,Leslie Howard
+1933,ACTOR,I Am a Fugitive from a Chain Gang,Paul Muni
+1933,ACTOR,The Private Life of Henry VIII,Charles Laughton
+1935,ACTOR,It Happened One Night,Clark Gable
+1935,ACTOR,The Affairs of Cellini,Frank Morgan
+1935,ACTOR,The Thin Man,William Powell
+1936,ACTOR,Black Fury,Paul Muni
+1936,ACTOR,Mutiny on the Bounty (1935),Franchot Tone
+1936,ACTOR,Mutiny on the Bounty (1935),Charles Laughton
+1936,ACTOR,Mutiny on the Bounty (1935),Clark Gable
+1936,ACTOR,The Informer,Victor McLaglen
+1937,ACTOR IN A SUPPORTING ROLE,Come and Get It,Walter Brennan
+1937,ACTOR,Dodsworth,Walter Huston
+1937,ACTOR,Mr. Deeds Goes to Town,Gary Cooper
+1937,ACTOR,My Man Godfrey,William Powell
+1937,ACTOR IN A SUPPORTING ROLE,My Man Godfrey,Mischa Auer
+1937,ACTOR IN A SUPPORTING ROLE,Pigskin Parade,Stuart Erwin
+1937,ACTOR IN A SUPPORTING ROLE,Romeo and Juliet (1936),Basil Rathbone
+1937,ACTOR,San Francisco,Spencer Tracy
+1937,ACTOR IN A SUPPORTING ROLE,The General Died at Dawn,Akim Tamiroff
+1937,ACTOR,The Story of Louis Pasteur,Paul Muni
+1938,ACTOR,A Star Is Born (1937),Fredric March
+1938,ACTOR,Captains Courageous,Spencer Tracy
+1938,ACTOR,Conquest,Charles Boyer
+1938,ACTOR IN A SUPPORTING ROLE,Lost Horizon,H. B. Warner
+1938,ACTOR,Night Must Fall,Robert Montgomery
+1938,ACTOR IN A SUPPORTING ROLE,The Awful Truth,Ralph Bellamy
+1938,ACTOR IN A SUPPORTING ROLE,The Hurricane (1937),Thomas Mitchell
+1938,ACTOR,The Life of Emile Zola,Paul Muni
+1938,ACTOR IN A SUPPORTING ROLE,The Life of Emile Zola,Joseph Schildkraut
+1938,ACTOR IN A SUPPORTING ROLE,Topper,Roland Young
+1939,ACTOR,Algiers,Charles Boyer
+1939,ACTOR IN A SUPPORTING ROLE,Algiers,Gene Lockhart
+1939,ACTOR,Angels with Dirty Faces,James Cagney
+1939,ACTOR,Boys Town,Spencer Tracy
+1939,ACTOR IN A SUPPORTING ROLE,Four Daughters (1938),John Garfield
+1939,ACTOR IN A SUPPORTING ROLE,If I Were King,Basil Rathbone
+1939,ACTOR IN A SUPPORTING ROLE,Kentucky,Walter Brennan
+1939,ACTOR IN A SUPPORTING ROLE,Marie Antoinette (1938),Robert Morley
+1939,ACTOR,Pygmalion,Leslie Howard
+1939,ACTOR,The Citadel,Robert Donat
+1940,ACTOR,Babes in Arms,Mickey Rooney
+1940,ACTOR IN A SUPPORTING ROLE,Beau Geste,Brian Donlevy
+1940,ACTOR,Gone with the Wind,Clark Gable
+1940,ACTOR,"Goodbye, Mr. Chips (1939)",Robert Donat
+1940,ACTOR IN A SUPPORTING ROLE,Juarez,Brian Aherne
+1940,ACTOR,Mr. Smith Goes to Washington,James Stewart
+1940,ACTOR IN A SUPPORTING ROLE,Mr. Smith Goes to Washington,Harry Carey
+1940,ACTOR IN A SUPPORTING ROLE,Mr. Smith Goes to Washington,Claude Rains
+1940,ACTOR IN A SUPPORTING ROLE,Stagecoach,Thomas Mitchell
+1940,ACTOR,Wuthering Heights,Laurence Olivier
+1941,ACTOR,Abe Lincoln in Illinois,Raymond Massey
+1941,ACTOR IN A SUPPORTING ROLE,Foreign Correspondent,Albert Basserman
+1941,ACTOR,Rebecca,Laurence Olivier
+1941,ACTOR,The Grapes of Wrath,Henry Fonda
+1941,ACTOR,The Great Dictator,Charles Chaplin
+1941,ACTOR IN A SUPPORTING ROLE,The Great Dictator,Jack Oakie
+1941,ACTOR IN A SUPPORTING ROLE,The Letter (1940),James Stephenson
+1941,ACTOR,The Philadelphia Story,James Stewart
+1941,ACTOR IN A SUPPORTING ROLE,The Westerner,Walter Brennan
+1941,ACTOR IN A SUPPORTING ROLE,They Knew What They Wanted,William Gargan
+1942,ACTOR,All That Money Can Buy,Walter Huston
+1942,ACTOR,Citizen Kane,Orson Welles
+1942,ACTOR,Here Comes Mr. Jordan,Robert Montgomery
+1942,ACTOR IN A SUPPORTING ROLE,Here Comes Mr. Jordan,James Gleason
+1942,ACTOR IN A SUPPORTING ROLE,How Green Was My Valley,Donald Crisp
+1942,ACTOR,Penny Serenade,Cary Grant
+1942,ACTOR,Sergeant York,Gary Cooper
+1942,ACTOR IN A SUPPORTING ROLE,Sergeant York,Walter Brennan
+1942,ACTOR IN A SUPPORTING ROLE,The Devil and Miss Jones,Charles Coburn
+1942,ACTOR IN A SUPPORTING ROLE,The Maltese Falcon,Sydney Greenstreet
+1943,ACTOR IN A SUPPORTING ROLE,Johnny Eager,Van Heflin
+1943,ACTOR,Mrs. Miniver,Walter Pidgeon
+1943,ACTOR IN A SUPPORTING ROLE,Mrs. Miniver,Henry Travers
+1943,ACTOR,Random Harvest,Ronald Colman
+1943,ACTOR,The Pied Piper,Monty Woolley
+1943,ACTOR,The Pride of the Yankees,Gary Cooper
+1943,ACTOR IN A SUPPORTING ROLE,Tortilla Flat,Frank Morgan
+1943,ACTOR IN A SUPPORTING ROLE,Wake Island,William Bendix
+1943,ACTOR,Yankee Doodle Dandy,James Cagney
+1943,ACTOR IN A SUPPORTING ROLE,Yankee Doodle Dandy,Walter Huston
+1944,ACTOR,Casablanca,Humphrey Bogart
+1944,ACTOR IN A SUPPORTING ROLE,Casablanca,Claude Rains
+1944,ACTOR,For Whom the Bell Tolls,Gary Cooper
+1944,ACTOR IN A SUPPORTING ROLE,For Whom the Bell Tolls,Akim Tamiroff
+1944,ACTOR,Madame Curie,Walter Pidgeon
+1944,ACTOR IN A SUPPORTING ROLE,Sahara,J. Carrol Naish
+1944,ACTOR,The Human Comedy,Mickey Rooney
+1944,ACTOR IN A SUPPORTING ROLE,The More the Merrier,Charles Coburn
+1944,ACTOR IN A SUPPORTING ROLE,The Song of Bernadette,Charles Bickford
+1944,ACTOR,Watch on the Rhine,Paul Lukas
+1945,ACTOR,Gaslight,Charles Boyer
+1945,ACTOR,Going My Way,Bing Crosby
+1945,ACTOR,Going My Way,Barry Fitzgerald
+1945,ACTOR IN A SUPPORTING ROLE,Going My Way,Barry Fitzgerald
+1945,ACTOR IN A SUPPORTING ROLE,Laura,Clifton Webb
+1945,ACTOR IN A SUPPORTING ROLE,Mr. Skeffington,Claude Rains
+1945,ACTOR,None but the Lonely Heart,Cary Grant
+1945,ACTOR IN A SUPPORTING ROLE,Since You Went Away,Monty Woolley
+1945,ACTOR IN A SUPPORTING ROLE,The Seventh Cross,Hume Cronyn
+1945,ACTOR,Wilson,Alexander Knox
+1946,ACTOR IN A SUPPORTING ROLE,A Medal for Benny,J. Carrol Naish
+1946,ACTOR,A Song to Remember,Cornel Wilde
+1946,ACTOR IN A SUPPORTING ROLE,A Tree Grows in Brooklyn,James Dunn
+1946,ACTOR,Anchors Aweigh,Gene Kelly
+1946,ACTOR IN A SUPPORTING ROLE,G. I. Joe,Robert Mitchum
+1946,ACTOR IN A SUPPORTING ROLE,Spellbound (1945),Michael Chekhov
+1946,ACTOR,The Bells of St. Mary's,Bing Crosby
+1946,ACTOR IN A SUPPORTING ROLE,The Corn Is Green,John Dall
+1946,ACTOR,The Keys of the Kingdom,Gregory Peck
+1946,ACTOR,The Lost Weekend,Ray Milland
+1947,ACTOR,Henry V (1946),Laurence Olivier
+1947,ACTOR,It's a Wonderful Life,James Stewart
+1947,ACTOR IN A SUPPORTING ROLE,Notorious,Claude Rains
+1947,ACTOR,The Best Years of Our Lives,Fredric March
+1947,ACTOR IN A SUPPORTING ROLE,The Best Years of Our Lives,Harold Russell
+1947,ACTOR IN A SUPPORTING ROLE,The Green Years,Charles Coburn
+1947,ACTOR,The Jolson Story,Larry Parks
+1947,ACTOR IN A SUPPORTING ROLE,The Jolson Story,William Demarest
+1947,ACTOR IN A SUPPORTING ROLE,The Razor's Edge,Clifton Webb
+1947,ACTOR,The Yearling,Gregory Peck
+1948,ACTOR,A Double Life,Ronald Colman
+1948,ACTOR,Body and Soul,John Garfield
+1948,ACTOR IN A SUPPORTING ROLE,Crossfire,Robert Ryan
+1948,ACTOR,Gentleman's Agreement,Gregory Peck
+1948,ACTOR IN A SUPPORTING ROLE,Kiss of Death,Richard Widmark
+1948,ACTOR,Life with Father,William Powell
+1948,ACTOR IN A SUPPORTING ROLE,Miracle on 34th Street,Edmund Gwenn
+1948,ACTOR,Mourning Becomes Electra,Michael Redgrave
+1948,ACTOR IN A SUPPORTING ROLE,Ride the Pink Horse,Thomas Gomez
+1948,ACTOR IN A SUPPORTING ROLE,The Farmer's Daughter,Charles Bickford
+1949,ACTOR,Hamlet (1948),Laurence Olivier
+1949,ACTOR IN A SUPPORTING ROLE,I Remember Mama,Oscar Homolka
+1949,ACTOR IN A SUPPORTING ROLE,Joan of Arc,José Ferrer
+1949,ACTOR,Johnny Belinda,Lew Ayres
+1949,ACTOR IN A SUPPORTING ROLE,Johnny Belinda,Charles Bickford
+1949,ACTOR,Sitting Pretty,Clifton Webb
+1949,ACTOR IN A SUPPORTING ROLE,The Luck of the Irish,Cecil Kellaway
+1949,ACTOR,The Search,Montgomery Clift
+1949,ACTOR IN A SUPPORTING ROLE,The Treasure of the Sierra Madre,Walter Huston
+1949,ACTOR,When My Baby Smiles at Me,Dan Dailey
+1950,ACTOR,All the King's Men,Broderick Crawford
+1950,ACTOR IN A SUPPORTING ROLE,All the King's Men,John Ireland
+1950,ACTOR IN A SUPPORTING ROLE,Battleground,James Whitmore
+1950,ACTOR,Champion,Kirk Douglas
+1950,ACTOR IN A SUPPORTING ROLE,Champion,Arthur Kennedy
+1950,ACTOR,Sands of Iwo Jima,John Wayne
+1950,ACTOR,The Hasty Heart,Richard Todd
+1950,ACTOR IN A SUPPORTING ROLE,The Heiress,Ralph Richardson
+1950,ACTOR,Twelve O'Clock High,Gregory Peck
+1950,ACTOR IN A SUPPORTING ROLE,Twelve O'Clock High,Dean Jagger
+1951,ACTOR IN A SUPPORTING ROLE,All about Eve,George Sanders
+1951,ACTOR IN A SUPPORTING ROLE,Broken Arrow,Jeff Chandler
+1951,ACTOR,Cyrano de Bergerac (1950),José Ferrer
+1951,ACTOR,Father of the Bride,Spencer Tracy
+1951,ACTOR,Harvey,James Stewart
+1951,ACTOR IN A SUPPORTING ROLE,Mister 880,Edmund Gwenn
+1951,ACTOR,Sunset Blvd.,William Holden
+1951,ACTOR IN A SUPPORTING ROLE,Sunset Blvd.,Erich von Stroheim
+1951,ACTOR IN A SUPPORTING ROLE,The Asphalt Jungle,Sam Jaffe
+1951,ACTOR,The Magnificent Yankee,Louis Calhern
+1952,ACTOR,A Place in the Sun (1951),Montgomery Clift
+1952,ACTOR,A Streetcar Named Desire,Marlon Brando
+1952,ACTOR IN A SUPPORTING ROLE,A Streetcar Named Desire,Karl Malden
+1952,ACTOR,Bright Victory,Arthur Kennedy
+1952,ACTOR IN A SUPPORTING ROLE,Come Fill the Cup,Gig Young
+1952,ACTOR,Death of a Salesman,Fredric March
+1952,ACTOR IN A SUPPORTING ROLE,Death of a Salesman,Kevin McCarthy
+1952,ACTOR IN A SUPPORTING ROLE,Quo Vadis,Peter Ustinov
+1952,ACTOR IN A SUPPORTING ROLE,Quo Vadis,Leo Genn
+1952,ACTOR,The African Queen,Humphrey Bogart
+1953,ACTOR,High Noon,Gary Cooper
+1953,ACTOR,Moulin Rouge (1952),José Ferrer
+1953,ACTOR IN A SUPPORTING ROLE,My Cousin Rachel,Richard Burton
+1953,ACTOR IN A SUPPORTING ROLE,Sudden Fear,Jack Palance
+1953,ACTOR,The Bad and the Beautiful,Kirk Douglas
+1953,ACTOR IN A SUPPORTING ROLE,The Big Sky,Arthur Hunnicutt
+1953,ACTOR,The Lavender Hill Mob,Alec Guinness
+1953,ACTOR IN A SUPPORTING ROLE,The Quiet Man,Victor McLaglen
+1953,ACTOR,Viva Zapata!,Marlon Brando
+1953,ACTOR IN A SUPPORTING ROLE,Viva Zapata!,Anthony Quinn
+1954,ACTOR,From Here to Eternity,Burt Lancaster
+1954,ACTOR,From Here to Eternity,Montgomery Clift
+1954,ACTOR IN A SUPPORTING ROLE,From Here to Eternity,Frank Sinatra
+1954,ACTOR,Julius Caesar,Marlon Brando
+1954,ACTOR IN A SUPPORTING ROLE,Roman Holiday,Eddie Albert
+1954,ACTOR IN A SUPPORTING ROLE,Shane,Jack Palance
+1954,ACTOR IN A SUPPORTING ROLE,Shane,Brandon De Wilde
+1954,ACTOR,Stalag 17,William Holden
+1954,ACTOR IN A SUPPORTING ROLE,Stalag 17,Robert Strauss
+1954,ACTOR,The Robe,Richard Burton
+1955,ACTOR,A Star Is Born (1954),James Mason
+1955,ACTOR,Adventures of Robinson Crusoe,Dan O'Herlihy
+1955,ACTOR,On the Waterfront,Marlon Brando
+1955,ACTOR IN A SUPPORTING ROLE,On the Waterfront,Karl Malden
+1955,ACTOR IN A SUPPORTING ROLE,On the Waterfront,Lee J. Cobb
+1955,ACTOR IN A SUPPORTING ROLE,On the Waterfront,Rod Steiger
+1955,ACTOR IN A SUPPORTING ROLE,The Barefoot Contessa,Edmond O'Brien
+1955,ACTOR,The Caine Mutiny,Humphrey Bogart
+1955,ACTOR IN A SUPPORTING ROLE,The Caine Mutiny,Tom Tully
+1955,ACTOR,The Country Girl,Bing Crosby
+1956,ACTOR,Bad Day at Black Rock,Spencer Tracy
+1956,ACTOR,East of Eden,James Dean
+1956,ACTOR,Love Me or Leave Me,James Cagney
+1956,ACTOR,Marty,Ernest Borgnine
+1956,ACTOR IN A SUPPORTING ROLE,Marty,Joe Mantell
+1956,ACTOR IN A SUPPORTING ROLE,Mister Roberts,Jack Lemmon
+1956,ACTOR IN A SUPPORTING ROLE,Picnic,Arthur O'Connell
+1956,ACTOR IN A SUPPORTING ROLE,Rebel without a Cause,Sal Mineo
+1956,ACTOR,The Man with the Golden Arm,Frank Sinatra
+1956,ACTOR IN A SUPPORTING ROLE,Trial,Arthur Kennedy
+1957,ACTOR IN A SUPPORTING ROLE,Bus Stop,Don Murray
+1957,ACTOR IN A SUPPORTING ROLE,Friendly Persuasion,Anthony Perkins
+1957,ACTOR,Giant,Rock Hudson
+1957,ACTOR,Giant,James Dean
+1957,ACTOR,Lust for Life,Kirk Douglas
+1957,ACTOR IN A SUPPORTING ROLE,Lust for Life,Anthony Quinn
+1957,ACTOR,Richard III (1956),Sir Laurence Olivier
+1957,ACTOR IN A SUPPORTING ROLE,The Bold and the Brave,Mickey Rooney
+1957,ACTOR,The King and I,Yul Brynner
+1957,ACTOR IN A SUPPORTING ROLE,Written on the Wind,Robert Stack
+1958,ACTOR IN A SUPPORTING ROLE,A Farewell to Arms (1957),Vittorio De Sica
+1958,ACTOR,A Hatful of Rain,Anthony Franciosa
+1958,ACTOR IN A SUPPORTING ROLE,Peyton Place,Russ Tamblyn
+1958,ACTOR IN A SUPPORTING ROLE,Peyton Place,Arthur Kennedy
+1958,ACTOR,Sayonara,Marlon Brando
+1958,ACTOR IN A SUPPORTING ROLE,Sayonara,Red Buttons
+1958,ACTOR,The Bridge on the River Kwai,Alec Guinness
+1958,ACTOR IN A SUPPORTING ROLE,The Bridge on the River Kwai,Sessue Hayakawa
+1958,ACTOR,Wild Is the Wind,Anthony Quinn
+1958,ACTOR,Witness for the Prosecution,Charles Laughton
+1959,ACTOR,Cat on a Hot Tin Roof,Paul Newman
+1959,ACTOR,Separate Tables,David Niven
+1959,ACTOR IN A SUPPORTING ROLE,Some Came Running,Arthur Kennedy
+1959,ACTOR IN A SUPPORTING ROLE,Teacher's Pet,Gig Young
+1959,ACTOR IN A SUPPORTING ROLE,The Big Country,Burl Ives
+1959,ACTOR IN A SUPPORTING ROLE,The Brothers Karamazov (1958),Lee J. Cobb
+1959,ACTOR,The Defiant Ones,Sidney Poitier
+1959,ACTOR,The Defiant Ones,Tony Curtis
+1959,ACTOR IN A SUPPORTING ROLE,The Defiant Ones,Theodore Bikel
+1959,ACTOR,The Old Man and the Sea (1958),Spencer Tracy
+1960,ACTOR,Anatomy of a Murder,James Stewart
+1960,ACTOR IN A SUPPORTING ROLE,Anatomy of a Murder,George C. Scott
+1960,ACTOR IN A SUPPORTING ROLE,Anatomy of a Murder,Arthur O'Connell
+1960,ACTOR,Ben-Hur,Charlton Heston
+1960,ACTOR IN A SUPPORTING ROLE,Ben-Hur,Hugh Griffith
+1960,ACTOR,Room at the Top,Laurence Harvey
+1960,ACTOR,Some Like It Hot,Jack Lemmon
+1960,ACTOR IN A SUPPORTING ROLE,The Diary of Anne Frank,Ed Wynn
+1960,ACTOR,The Last Angry Man,Paul Muni
+1960,ACTOR IN A SUPPORTING ROLE,The Young Philadelphians,Robert Vaughn
+1961,ACTOR,Elmer Gantry,Burt Lancaster
+1961,ACTOR IN A SUPPORTING ROLE,Exodus,Sal Mineo
+1961,ACTOR,Inherit the Wind,Spencer Tracy
+1961,ACTOR IN A SUPPORTING ROLE,"Murder, Inc.",Peter Falk
+1961,ACTOR,Sons and Lovers,Trevor Howard
+1961,ACTOR IN A SUPPORTING ROLE,Spartacus,Peter Ustinov
+1961,ACTOR IN A SUPPORTING ROLE,The Alamo,Chill Wills
+1961,ACTOR,The Apartment,Jack Lemmon
+1961,ACTOR IN A SUPPORTING ROLE,The Apartment,Jack Kruschen
+1961,ACTOR,The Entertainer,Laurence Olivier
+1962,ACTOR,Fanny,Charles Boyer
+1962,ACTOR,Judgment at Nuremberg,Maximilian Schell
+1962,ACTOR,Judgment at Nuremberg,Spencer Tracy
+1962,ACTOR IN A SUPPORTING ROLE,Judgment at Nuremberg,Montgomery Clift
+1962,ACTOR IN A SUPPORTING ROLE,Pocketful of Miracles,Peter Falk
+1962,ACTOR,The Hustler,Paul Newman
+1962,ACTOR IN A SUPPORTING ROLE,The Hustler,George C. Scott
+1962,ACTOR IN A SUPPORTING ROLE,The Hustler,Jackie Gleason
+1962,ACTOR,The Mark,Stuart Whitman
+1962,ACTOR IN A SUPPORTING ROLE,West Side Story (1961),George Chakiris
+1963,ACTOR IN A SUPPORTING ROLE,Billy Budd,Terence Stamp
+1963,ACTOR,Birdman of Alcatraz,Burt Lancaster
+1963,ACTOR IN A SUPPORTING ROLE,Birdman of Alcatraz,Telly Savalas
+1963,ACTOR,Days of Wine and Roses,Jack Lemmon
+1963,ACTOR,Divorce--Italian Style,Marcello Mastroianni
+1963,ACTOR,Lawrence of Arabia,Peter O'Toole
+1963,ACTOR IN A SUPPORTING ROLE,Lawrence of Arabia,Omar Sharif
+1963,ACTOR IN A SUPPORTING ROLE,Sweet Bird of Youth,Ed Begley
+1963,ACTOR,To Kill a Mockingbird,Gregory Peck
+1963,ACTOR IN A SUPPORTING ROLE,What Ever Happened to Baby Jane?,Victor Buono
+1964,ACTOR IN A SUPPORTING ROLE,"Captain Newman, M.D.",Bobby Darin
+1964,ACTOR,Cleopatra (1963),Rex Harrison
+1964,ACTOR,Hud,Paul Newman
+1964,ACTOR IN A SUPPORTING ROLE,Hud,Melvyn Douglas
+1964,ACTOR,Lilies of the Field,Sidney Poitier
+1964,ACTOR IN A SUPPORTING ROLE,The Cardinal,John Huston
+1964,ACTOR,This Sporting Life,Richard Harris
+1964,ACTOR,Tom Jones,Albert Finney
+1964,ACTOR IN A SUPPORTING ROLE,Tom Jones,Hugh Griffith
+1964,ACTOR IN A SUPPORTING ROLE,Twilight of Honor,Nick Adams
+1965,ACTOR,Becket,Peter O'Toole
+1965,ACTOR,Becket,Richard Burton
+1965,ACTOR IN A SUPPORTING ROLE,Becket,John Gielgud
+1965,ACTOR,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Peter Sellers
+1965,ACTOR,My Fair Lady,Rex Harrison
+1965,ACTOR IN A SUPPORTING ROLE,My Fair Lady,Stanley Holloway
+1965,ACTOR IN A SUPPORTING ROLE,Seven Days in May,Edmond O'Brien
+1965,ACTOR IN A SUPPORTING ROLE,The Best Man,Lee Tracy
+1965,ACTOR IN A SUPPORTING ROLE,Topkapi,Peter Ustinov
+1965,ACTOR,Zorba the Greek,Anthony Quinn
+1966,ACTOR IN A SUPPORTING ROLE,A Thousand Clowns,Martin Balsam
+1966,ACTOR,Cat Ballou,Lee Marvin
+1966,ACTOR IN A SUPPORTING ROLE,Doctor Zhivago,Tom Courtenay
+1966,ACTOR,Othello,Laurence Olivier
+1966,ACTOR IN A SUPPORTING ROLE,Othello,Frank Finlay
+1966,ACTOR,Ship of Fools,Oskar Werner
+1966,ACTOR IN A SUPPORTING ROLE,Ship of Fools,Michael Dunn
+1966,ACTOR IN A SUPPORTING ROLE,The Flight of the Phoenix,Ian Bannen
+1966,ACTOR,The Pawnbroker,Rod Steiger
+1966,ACTOR,The Spy Who Came In from the Cold,Richard Burton
+1967,ACTOR,A Man for All Seasons,Paul Scofield
+1967,ACTOR IN A SUPPORTING ROLE,A Man for All Seasons,Robert Shaw
+1967,ACTOR,Alfie,Michael Caine
+1967,ACTOR IN A SUPPORTING ROLE,Georgy Girl,James Mason
+1967,ACTOR IN A SUPPORTING ROLE,The Fortune Cookie,Walter Matthau
+1967,ACTOR,The Russians Are Coming The Russians Are Coming,Alan Arkin
+1967,ACTOR,The Sand Pebbles,Steve McQueen
+1967,ACTOR IN A SUPPORTING ROLE,The Sand Pebbles,Mako
+1967,ACTOR,Who's Afraid of Virginia Woolf?,Richard Burton
+1967,ACTOR IN A SUPPORTING ROLE,Who's Afraid of Virginia Woolf?,George Segal
+1968,ACTOR,Bonnie and Clyde,Warren Beatty
+1968,ACTOR IN A SUPPORTING ROLE,Bonnie and Clyde,Gene Hackman
+1968,ACTOR IN A SUPPORTING ROLE,Bonnie and Clyde,Michael J. Pollard
+1968,ACTOR,Cool Hand Luke,Paul Newman
+1968,ACTOR IN A SUPPORTING ROLE,Cool Hand Luke,George Kennedy
+1968,ACTOR,Guess Who's Coming to Dinner,Spencer Tracy
+1968,ACTOR IN A SUPPORTING ROLE,Guess Who's Coming to Dinner,Cecil Kellaway
+1968,ACTOR,In the Heat of the Night,Rod Steiger
+1968,ACTOR IN A SUPPORTING ROLE,The Dirty Dozen,John Cassavetes
+1968,ACTOR,The Graduate,Dustin Hoffman
+1969,ACTOR,Charly,Cliff Robertson
+1969,ACTOR IN A SUPPORTING ROLE,Faces,Seymour Cassel
+1969,ACTOR,Oliver!,Ron Moody
+1969,ACTOR IN A SUPPORTING ROLE,Oliver!,Jack Wild
+1969,ACTOR IN A SUPPORTING ROLE,Star!,Daniel Massey
+1969,ACTOR,The Fixer,Alan Bates
+1969,ACTOR,The Heart Is a Lonely Hunter,Alan Arkin
+1969,ACTOR,The Lion in Winter,Peter O'Toole
+1969,ACTOR IN A SUPPORTING ROLE,The Producers,Gene Wilder
+1969,ACTOR IN A SUPPORTING ROLE,The Subject Was Roses,Jack Albertson
+1970,ACTOR,Anne of the Thousand Days,Richard Burton
+1970,ACTOR IN A SUPPORTING ROLE,Anne of the Thousand Days,Anthony Quayle
+1970,ACTOR IN A SUPPORTING ROLE,Bob & Carol & Ted & Alice,Elliott Gould
+1970,ACTOR IN A SUPPORTING ROLE,Easy Rider,Jack Nicholson
+1970,ACTOR,"Goodbye, Mr. Chips (1969)",Peter O'Toole
+1970,ACTOR,Midnight Cowboy,Jon Voight
+1970,ACTOR,Midnight Cowboy,Dustin Hoffman
+1970,ACTOR IN A SUPPORTING ROLE,The Reivers,Rupert Crosse
+1970,ACTOR IN A SUPPORTING ROLE,"They Shoot Horses, Don't They?",Gig Young
+1970,ACTOR,True Grit (1969),John Wayne
+1971,ACTOR,Five Easy Pieces,Jack Nicholson
+1971,ACTOR,I Never Sang for My Father,Melvyn Douglas
+1971,ACTOR IN A SUPPORTING ROLE,I Never Sang for My Father,Gene Hackman
+1971,ACTOR IN A SUPPORTING ROLE,Little Big Man,Chief Dan George
+1971,ACTOR,Love Story,Ryan O'Neal
+1971,ACTOR IN A SUPPORTING ROLE,Love Story,John Marley
+1971,ACTOR IN A SUPPORTING ROLE,Lovers and Other Strangers,Richard Castellano
+1971,ACTOR,Patton,George C. Scott
+1971,ACTOR IN A SUPPORTING ROLE,Ryan's Daughter,John Mills
+1971,ACTOR,The Great White Hope,James Earl Jones
+1972,ACTOR,Fiddler on the Roof,Topol
+1972,ACTOR IN A SUPPORTING ROLE,Fiddler on the Roof,Leonard Frey
+1972,ACTOR,Kotch,Walter Matthau
+1972,ACTOR IN A SUPPORTING ROLE,Sometimes a Great Notion,Richard Jaeckel
+1972,ACTOR,Sunday Bloody Sunday,Peter Finch
+1972,ACTOR,The French Connection,Gene Hackman
+1972,ACTOR IN A SUPPORTING ROLE,The French Connection,Roy Scheider
+1972,ACTOR,The Hospital,George C. Scott
+1972,ACTOR IN A SUPPORTING ROLE,The Last Picture Show,Ben Johnson
+1972,ACTOR IN A SUPPORTING ROLE,The Last Picture Show,Jeff Bridges
+1973,ACTOR IN A SUPPORTING ROLE,Cabaret,Joel Grey
+1973,ACTOR,Sleuth,Michael Caine
+1973,ACTOR,Sleuth,Laurence Olivier
+1973,ACTOR,Sounder,Paul Winfield
+1973,ACTOR,The Godfather,Marlon Brando
+1973,ACTOR IN A SUPPORTING ROLE,The Godfather,Al Pacino
+1973,ACTOR IN A SUPPORTING ROLE,The Godfather,Robert Duvall
+1973,ACTOR IN A SUPPORTING ROLE,The Godfather,James Caan
+1973,ACTOR IN A SUPPORTING ROLE,The Heartbreak Kid,Eddie Albert
+1973,ACTOR,The Ruling Class,Peter O'Toole
+1974,ACTOR IN A SUPPORTING ROLE,Bang the Drum Slowly,Vincent Gardenia
+1974,ACTOR,Last Tango in Paris,Marlon Brando
+1974,ACTOR,Save the Tiger,Jack Lemmon
+1974,ACTOR IN A SUPPORTING ROLE,Save the Tiger,Jack Gilford
+1974,ACTOR,Serpico,Al Pacino
+1974,ACTOR IN A SUPPORTING ROLE,The Exorcist,Jason Miller
+1974,ACTOR,The Last Detail,Jack Nicholson
+1974,ACTOR IN A SUPPORTING ROLE,The Last Detail,Randy Quaid
+1974,ACTOR IN A SUPPORTING ROLE,The Paper Chase,John Houseman
+1974,ACTOR,The Sting,Robert Redford
+1975,ACTOR,Chinatown,Jack Nicholson
+1975,ACTOR,Harry and Tonto,Art Carney
+1975,ACTOR,Lenny,Dustin Hoffman
+1975,ACTOR,Murder on the Orient Express,Albert Finney
+1975,ACTOR,The Godfather Part II,Al Pacino
+1975,ACTOR IN A SUPPORTING ROLE,The Godfather Part II,Robert De Niro
+1975,ACTOR IN A SUPPORTING ROLE,The Godfather Part II,Lee Strasberg
+1975,ACTOR IN A SUPPORTING ROLE,The Godfather Part II,Michael V. Gazzo
+1975,ACTOR IN A SUPPORTING ROLE,The Towering Inferno,Fred Astaire
+1975,ACTOR IN A SUPPORTING ROLE,Thunderbolt and Lightfoot,Jeff Bridges
+1976,ACTOR,Dog Day Afternoon,Al Pacino
+1976,ACTOR IN A SUPPORTING ROLE,Dog Day Afternoon,Chris Sarandon
+1976,ACTOR,"Give 'em Hell, Harry!",James Whitmore
+1976,ACTOR,One Flew over the Cuckoo's Nest,Jack Nicholson
+1976,ACTOR IN A SUPPORTING ROLE,One Flew over the Cuckoo's Nest,Brad Dourif
+1976,ACTOR IN A SUPPORTING ROLE,Shampoo,Jack Warden
+1976,ACTOR IN A SUPPORTING ROLE,The Day of the Locust,Burgess Meredith
+1976,ACTOR,The Man in the Glass Booth,Maximilian Schell
+1976,ACTOR,The Sunshine Boys,Walter Matthau
+1976,ACTOR IN A SUPPORTING ROLE,The Sunshine Boys,George Burns
+1977,ACTOR IN A SUPPORTING ROLE,All the President's Men,Jason Robards
+1977,ACTOR IN A SUPPORTING ROLE,Marathon Man,Laurence Olivier
+1977,ACTOR IN A LEADING ROLE,Network,Peter Finch
+1977,ACTOR IN A LEADING ROLE,Network,William Holden
+1977,ACTOR IN A SUPPORTING ROLE,Network,Ned Beatty
+1977,ACTOR IN A LEADING ROLE,Rocky,Sylvester Stallone
+1977,ACTOR IN A SUPPORTING ROLE,Rocky,Burt Young
+1977,ACTOR IN A SUPPORTING ROLE,Rocky,Burgess Meredith
+1977,ACTOR IN A LEADING ROLE,Seven Beauties,Giancarlo Giannini
+1977,ACTOR IN A LEADING ROLE,Taxi Driver,Robert De Niro
+1978,ACTOR IN A LEADING ROLE,A Special Day,Marcello Mastroianni
+1978,ACTOR IN A LEADING ROLE,Annie Hall,Woody Allen
+1978,ACTOR IN A LEADING ROLE,Equus,Richard Burton
+1978,ACTOR IN A SUPPORTING ROLE,Equus,Peter Firth
+1978,ACTOR IN A SUPPORTING ROLE,Julia,Jason Robards
+1978,ACTOR IN A SUPPORTING ROLE,Julia,Maximilian Schell
+1978,ACTOR IN A LEADING ROLE,Saturday Night Fever,John Travolta
+1978,ACTOR IN A SUPPORTING ROLE,Star Wars,Alec Guinness
+1978,ACTOR IN A LEADING ROLE,The Goodbye Girl,Richard Dreyfuss
+1978,ACTOR IN A SUPPORTING ROLE,The Turning Point,Mikhail Baryshnikov
+1979,ACTOR IN A SUPPORTING ROLE,Comes a Horseman,Richard Farnsworth
+1979,ACTOR IN A LEADING ROLE,Coming Home,Jon Voight
+1979,ACTOR IN A SUPPORTING ROLE,Coming Home,Bruce Dern
+1979,ACTOR IN A LEADING ROLE,Heaven Can Wait (1978),Warren Beatty
+1979,ACTOR IN A SUPPORTING ROLE,Heaven Can Wait (1978),Jack Warden
+1979,ACTOR IN A SUPPORTING ROLE,Midnight Express,John Hurt
+1979,ACTOR IN A LEADING ROLE,The Boys from Brazil,Laurence Olivier
+1979,ACTOR IN A LEADING ROLE,The Buddy Holly Story,Gary Busey
+1979,ACTOR IN A LEADING ROLE,The Deer Hunter,Robert De Niro
+1979,ACTOR IN A SUPPORTING ROLE,The Deer Hunter,Christopher Walken
+1980,ACTOR IN A LEADING ROLE,...And Justice for All,Al Pacino
+1980,ACTOR IN A LEADING ROLE,All That Jazz,Roy Scheider
+1980,ACTOR IN A SUPPORTING ROLE,Apocalypse Now,Robert Duvall
+1980,ACTOR IN A LEADING ROLE,Being There,Peter Sellers
+1980,ACTOR IN A SUPPORTING ROLE,Being There,Melvyn Douglas
+1980,ACTOR IN A LEADING ROLE,Kramer vs. Kramer,Dustin Hoffman
+1980,ACTOR IN A SUPPORTING ROLE,Kramer vs. Kramer,Justin Henry
+1980,ACTOR IN A SUPPORTING ROLE,The Black Stallion,Mickey Rooney
+1980,ACTOR IN A LEADING ROLE,The China Syndrome,Jack Lemmon
+1980,ACTOR IN A SUPPORTING ROLE,The Rose,Frederic Forrest
+1981,ACTOR IN A SUPPORTING ROLE,Melvin and Howard,Jason Robards
+1981,ACTOR IN A SUPPORTING ROLE,Ordinary People,Timothy Hutton
+1981,ACTOR IN A SUPPORTING ROLE,Ordinary People,Judd Hirsch
+1981,ACTOR IN A LEADING ROLE,Raging Bull,Robert De Niro
+1981,ACTOR IN A SUPPORTING ROLE,Raging Bull,Joe Pesci
+1981,ACTOR IN A LEADING ROLE,The Elephant Man,John Hurt
+1981,ACTOR IN A LEADING ROLE,The Great Santini,Robert Duvall
+1981,ACTOR IN A SUPPORTING ROLE,The Great Santini,Michael O'Keefe
+1981,ACTOR IN A LEADING ROLE,The Stunt Man,Peter O'Toole
+1981,ACTOR IN A LEADING ROLE,Tribute,Jack Lemmon
+1982,ACTOR IN A LEADING ROLE,Absence of Malice,Paul Newman
+1982,ACTOR IN A LEADING ROLE,Arthur,Dudley Moore
+1982,ACTOR IN A SUPPORTING ROLE,Arthur,John Gielgud
+1982,ACTOR IN A LEADING ROLE,Atlantic City,Burt Lancaster
+1982,ACTOR IN A SUPPORTING ROLE,Chariots of Fire,Ian Holm
+1982,ACTOR IN A LEADING ROLE,On Golden Pond,Henry Fonda
+1982,ACTOR IN A SUPPORTING ROLE,Only When I Laugh,James Coco
+1982,ACTOR IN A SUPPORTING ROLE,Ragtime,"Howard E. Rollins, Jr."
+1982,ACTOR IN A LEADING ROLE,Reds,Warren Beatty
+1982,ACTOR IN A SUPPORTING ROLE,Reds,Jack Nicholson
+1983,ACTOR IN A SUPPORTING ROLE,An Officer and a Gentleman,"Louis Gossett, Jr."
+1983,ACTOR IN A LEADING ROLE,Gandhi,Ben Kingsley
+1983,ACTOR IN A LEADING ROLE,Missing,Jack Lemmon
+1983,ACTOR IN A LEADING ROLE,My Favorite Year,Peter O'Toole
+1983,ACTOR IN A SUPPORTING ROLE,The Best Little Whorehouse in Texas,Charles Durning
+1983,ACTOR IN A LEADING ROLE,The Verdict,Paul Newman
+1983,ACTOR IN A SUPPORTING ROLE,The Verdict,James Mason
+1983,ACTOR IN A SUPPORTING ROLE,The World According to Garp,John Lithgow
+1983,ACTOR IN A LEADING ROLE,Tootsie,Dustin Hoffman
+1983,ACTOR IN A SUPPORTING ROLE,Victor/Victoria,Robert Preston
+1984,ACTOR IN A SUPPORTING ROLE,Cross Creek,Rip Torn
+1984,ACTOR IN A LEADING ROLE,Educating Rita,Michael Caine
+1984,ACTOR IN A LEADING ROLE,"Reuben, Reuben",Tom Conti
+1984,ACTOR IN A LEADING ROLE,Tender Mercies,Robert Duvall
+1984,ACTOR IN A SUPPORTING ROLE,Terms of Endearment,Jack Nicholson
+1984,ACTOR IN A SUPPORTING ROLE,Terms of Endearment,John Lithgow
+1984,ACTOR IN A LEADING ROLE,The Dresser,Albert Finney
+1984,ACTOR IN A LEADING ROLE,The Dresser,Tom Courtenay
+1984,ACTOR IN A SUPPORTING ROLE,The Right Stuff,Sam Shepard
+1984,ACTOR IN A SUPPORTING ROLE,To Be or Not to Be (1983),Charles Durning
+1985,ACTOR IN A SUPPORTING ROLE,A Soldier's Story,Adolph Caesar
+1985,ACTOR IN A LEADING ROLE,Amadeus,Tom Hulce
+1985,ACTOR IN A LEADING ROLE,Amadeus,F. Murray Abraham
+1985,ACTOR IN A SUPPORTING ROLE,"Greystoke: The Legend of Tarzan, Lord of the Apes",Ralph Richardson
+1985,ACTOR IN A SUPPORTING ROLE,Places in the Heart,John Malkovich
+1985,ACTOR IN A LEADING ROLE,Starman,Jeff Bridges
+1985,ACTOR IN A SUPPORTING ROLE,The Karate Kid,Noriyuki 'Pat' Morita
+1985,ACTOR IN A LEADING ROLE,The Killing Fields,Sam Waterston
+1985,ACTOR IN A SUPPORTING ROLE,The Killing Fields,Haing S. Ngor
+1985,ACTOR IN A LEADING ROLE,Under the Volcano,Albert Finney
+1986,ACTOR IN A SUPPORTING ROLE,Cocoon,Don Ameche
+1986,ACTOR IN A SUPPORTING ROLE,Jagged Edge,Robert Loggia
+1986,ACTOR IN A LEADING ROLE,Kiss of the Spider Woman,William Hurt
+1986,ACTOR IN A LEADING ROLE,Murphy's Romance,James Garner
+1986,ACTOR IN A SUPPORTING ROLE,Out of Africa,Klaus Maria Brandauer
+1986,ACTOR IN A LEADING ROLE,Prizzi's Honor,Jack Nicholson
+1986,ACTOR IN A SUPPORTING ROLE,Prizzi's Honor,William Hickey
+1986,ACTOR IN A LEADING ROLE,Runaway Train,Jon Voight
+1986,ACTOR IN A SUPPORTING ROLE,Runaway Train,Eric Roberts
+1986,ACTOR IN A LEADING ROLE,Witness,Harrison Ford
+1987,ACTOR IN A LEADING ROLE,'Round Midnight,Dexter Gordon
+1987,ACTOR IN A SUPPORTING ROLE,A Room with a View,Denholm Elliott
+1987,ACTOR IN A LEADING ROLE,Children of a Lesser God,William Hurt
+1987,ACTOR IN A SUPPORTING ROLE,Hannah and Her Sisters,Michael Caine
+1987,ACTOR IN A SUPPORTING ROLE,Hoosiers,Dennis Hopper
+1987,ACTOR IN A LEADING ROLE,Mona Lisa,Bob Hoskins
+1987,ACTOR IN A SUPPORTING ROLE,Platoon,Tom Berenger
+1987,ACTOR IN A SUPPORTING ROLE,Platoon,Willem Dafoe
+1987,ACTOR IN A LEADING ROLE,Salvador,James Woods
+1987,ACTOR IN A LEADING ROLE,The Color of Money,Paul Newman
+1988,ACTOR IN A LEADING ROLE,Broadcast News,William Hurt
+1988,ACTOR IN A SUPPORTING ROLE,Broadcast News,Albert Brooks
+1988,ACTOR IN A SUPPORTING ROLE,Cry Freedom,Denzel Washington
+1988,ACTOR IN A LEADING ROLE,Dark Eyes,Marcello Mastroianni
+1988,ACTOR IN A LEADING ROLE,"Good Morning, Vietnam",Robin Williams
+1988,ACTOR IN A LEADING ROLE,Ironweed,Jack Nicholson
+1988,ACTOR IN A SUPPORTING ROLE,Moonstruck,Vincent Gardenia
+1988,ACTOR IN A SUPPORTING ROLE,Street Smart,Morgan Freeman
+1988,ACTOR IN A SUPPORTING ROLE,The Untouchables,Sean Connery
+1988,ACTOR IN A LEADING ROLE,Wall Street,Michael Douglas
+1989,ACTOR IN A SUPPORTING ROLE,A Fish Called Wanda,Kevin Kline
+1989,ACTOR IN A LEADING ROLE,Big,Tom Hanks
+1989,ACTOR IN A SUPPORTING ROLE,Little Dorrit,Alec Guinness
+1989,ACTOR IN A SUPPORTING ROLE,Married to the Mob,Dean Stockwell
+1989,ACTOR IN A LEADING ROLE,Mississippi Burning,Gene Hackman
+1989,ACTOR IN A LEADING ROLE,Pelle the Conqueror,Max von Sydow
+1989,ACTOR IN A LEADING ROLE,Rain Man,Dustin Hoffman
+1989,ACTOR IN A SUPPORTING ROLE,Running on Empty,River Phoenix
+1989,ACTOR IN A LEADING ROLE,Stand and Deliver,Edward James Olmos
+1989,ACTOR IN A SUPPORTING ROLE,Tucker The Man and His Dream,Martin Landau
+1990,ACTOR IN A SUPPORTING ROLE,A Dry White Season,Marlon Brando
+1990,ACTOR IN A LEADING ROLE,Born on the Fourth of July,Tom Cruise
+1990,ACTOR IN A SUPPORTING ROLE,Crimes and Misdemeanors,Martin Landau
+1990,ACTOR IN A LEADING ROLE,Dead Poets Society,Robin Williams
+1990,ACTOR IN A SUPPORTING ROLE,Do the Right Thing,Danny Aiello
+1990,ACTOR IN A LEADING ROLE,Driving Miss Daisy,Morgan Freeman
+1990,ACTOR IN A SUPPORTING ROLE,Driving Miss Daisy,Dan Aykroyd
+1990,ACTOR IN A SUPPORTING ROLE,Glory,Denzel Washington
+1990,ACTOR IN A LEADING ROLE,Henry V (1989),Kenneth Branagh
+1990,ACTOR IN A LEADING ROLE,My Left Foot,Daniel Day Lewis
+1991,ACTOR IN A LEADING ROLE,Awakenings,Robert De Niro
+1991,ACTOR IN A LEADING ROLE,Cyrano de Bergerac (1990),Gerard Depardieu
+1991,ACTOR IN A LEADING ROLE,Dances With Wolves,Kevin Costner
+1991,ACTOR IN A SUPPORTING ROLE,Dances With Wolves,Graham Greene
+1991,ACTOR IN A SUPPORTING ROLE,Dick Tracy,Al Pacino
+1991,ACTOR IN A SUPPORTING ROLE,Good Fellas,Joe Pesci
+1991,ACTOR IN A SUPPORTING ROLE,Longtime Companion,Bruce Davison
+1991,ACTOR IN A LEADING ROLE,Reversal of Fortune,Jeremy Irons
+1991,ACTOR IN A LEADING ROLE,The Field,Richard Harris
+1991,ACTOR IN A SUPPORTING ROLE,"The Godfather, Part III",Andy Garcia
+1992,ACTOR IN A SUPPORTING ROLE,Barton Fink,Michael Lerner
+1992,ACTOR IN A LEADING ROLE,Bugsy,Warren Beatty
+1992,ACTOR IN A SUPPORTING ROLE,Bugsy,Ben Kingsley
+1992,ACTOR IN A SUPPORTING ROLE,Bugsy,Harvey Keitel
+1992,ACTOR IN A LEADING ROLE,Cape Fear,Robert De Niro
+1992,ACTOR IN A SUPPORTING ROLE,City Slickers,Jack Palance
+1992,ACTOR IN A SUPPORTING ROLE,JFK,Tommy Lee Jones
+1992,ACTOR IN A LEADING ROLE,The Fisher King,Robin Williams
+1992,ACTOR IN A LEADING ROLE,The Prince of Tides,Nick Nolte
+1992,ACTOR IN A LEADING ROLE,The Silence of the Lambs,Anthony Hopkins
+1993,ACTOR IN A SUPPORTING ROLE,A Few Good Men,Jack Nicholson
+1993,ACTOR IN A LEADING ROLE,Chaplin,Robert Downey Jr.
+1993,ACTOR IN A SUPPORTING ROLE,Glengarry Glen Ross,Al Pacino
+1993,ACTOR IN A LEADING ROLE,Malcolm X (1992),Denzel Washington
+1993,ACTOR IN A SUPPORTING ROLE,Mr. Saturday Night,David Paymer
+1993,ACTOR IN A LEADING ROLE,Scent of a Woman (1992),Al Pacino
+1993,ACTOR IN A LEADING ROLE,The Crying Game,Stephen Rea
+1993,ACTOR IN A SUPPORTING ROLE,The Crying Game,Jaye Davidson
+1993,ACTOR IN A LEADING ROLE,Unforgiven,Clint Eastwood
+1993,ACTOR IN A SUPPORTING ROLE,Unforgiven,Gene Hackman
+1994,ACTOR IN A SUPPORTING ROLE,In the Line of Fire,John Malkovich
+1994,ACTOR IN A LEADING ROLE,In the Name of the Father,Daniel Day-Lewis
+1994,ACTOR IN A SUPPORTING ROLE,In the Name of the Father,Pete Postlethwaite
+1994,ACTOR IN A LEADING ROLE,Philadelphia,Tom Hanks
+1994,ACTOR IN A LEADING ROLE,Schindler's List,Liam Neeson
+1994,ACTOR IN A SUPPORTING ROLE,Schindler's List,Ralph Fiennes
+1994,ACTOR IN A SUPPORTING ROLE,The Fugitive,Tommy Lee Jones
+1994,ACTOR IN A LEADING ROLE,The Remains of the Day,Anthony Hopkins
+1994,ACTOR IN A SUPPORTING ROLE,What's Eating Gilbert Grape,Leonardo DiCaprio
+1994,ACTOR IN A LEADING ROLE,What's Love Got to Do with It,Laurence Fishburne
+1995,ACTOR IN A SUPPORTING ROLE,Bullets over Broadway,Chazz Palminteri
+1995,ACTOR IN A SUPPORTING ROLE,Ed Wood,Martin Landau
+1995,ACTOR IN A LEADING ROLE,Forrest Gump,Tom Hanks
+1995,ACTOR IN A SUPPORTING ROLE,Forrest Gump,Gary Sinise
+1995,ACTOR IN A LEADING ROLE,Nobody's Fool,Paul Newman
+1995,ACTOR IN A LEADING ROLE,Pulp Fiction,John Travolta
+1995,ACTOR IN A SUPPORTING ROLE,Pulp Fiction,Samuel L. Jackson
+1995,ACTOR IN A SUPPORTING ROLE,Quiz Show,Paul Scofield
+1995,ACTOR IN A LEADING ROLE,The Madness of King George,Nigel Hawthorne
+1995,ACTOR IN A LEADING ROLE,The Shawshank Redemption,Morgan Freeman
+1996,ACTOR IN A SUPPORTING ROLE,12 Monkeys,Brad Pitt
+1996,ACTOR IN A SUPPORTING ROLE,Apollo 13,Ed Harris
+1996,ACTOR IN A SUPPORTING ROLE,Babe,James Cromwell
+1996,ACTOR IN A LEADING ROLE,Dead Man Walking,Sean Penn
+1996,ACTOR IN A LEADING ROLE,Leaving Las Vegas,Nicolas Cage
+1996,ACTOR IN A LEADING ROLE,Mr. Holland's Opus,Richard Dreyfuss
+1996,ACTOR IN A LEADING ROLE,Nixon,Anthony Hopkins
+1996,ACTOR IN A SUPPORTING ROLE,Rob Roy,Tim Roth
+1996,ACTOR IN A LEADING ROLE,The Postman (Il Postino),Massimo Troisi
+1996,ACTOR IN A SUPPORTING ROLE,The Usual Suspects,Kevin Spacey
+1997,ACTOR IN A SUPPORTING ROLE,Fargo,William H. Macy
+1997,ACTOR IN A SUPPORTING ROLE,Ghosts of Mississippi,James Woods
+1997,ACTOR IN A LEADING ROLE,Jerry Maguire,Tom Cruise
+1997,ACTOR IN A SUPPORTING ROLE,Jerry Maguire,"Cuba Gooding, Jr."
+1997,ACTOR IN A SUPPORTING ROLE,Primal Fear,Edward Norton
+1997,ACTOR IN A LEADING ROLE,Shine,Geoffrey Rush
+1997,ACTOR IN A SUPPORTING ROLE,Shine,Armin Mueller-Stahl
+1997,ACTOR IN A LEADING ROLE,Sling Blade,Billy Bob Thornton
+1997,ACTOR IN A LEADING ROLE,The English Patient,Ralph Fiennes
+1997,ACTOR IN A LEADING ROLE,The People vs. Larry Flynt,Woody Harrelson
+1998,ACTOR IN A SUPPORTING ROLE,Amistad,Anthony Hopkins
+1998,ACTOR IN A LEADING ROLE,As Good as It Gets,Jack Nicholson
+1998,ACTOR IN A SUPPORTING ROLE,As Good as It Gets,Greg Kinnear
+1998,ACTOR IN A SUPPORTING ROLE,Boogie Nights,Burt Reynolds
+1998,ACTOR IN A LEADING ROLE,Good Will Hunting,Matt Damon
+1998,ACTOR IN A SUPPORTING ROLE,Good Will Hunting,Robin Williams
+1998,ACTOR IN A SUPPORTING ROLE,Jackie Brown,Robert Forster
+1998,ACTOR IN A LEADING ROLE,The Apostle,Robert Duvall
+1998,ACTOR IN A LEADING ROLE,Ulee's Gold,Peter Fonda
+1998,ACTOR IN A LEADING ROLE,Wag the Dog,Dustin Hoffman
+1999,ACTOR IN A SUPPORTING ROLE,A Civil Action,Robert Duvall
+1999,ACTOR IN A SUPPORTING ROLE,A Simple Plan,Billy Bob Thornton
+1999,ACTOR IN A LEADING ROLE,Affliction,Nick Nolte
+1999,ACTOR IN A SUPPORTING ROLE,Affliction,James Coburn
+1999,ACTOR IN A LEADING ROLE,American History X,Edward Norton
+1999,ACTOR IN A LEADING ROLE,Gods and Monsters,Ian McKellen
+1999,ACTOR IN A LEADING ROLE,Life Is Beautiful,Roberto Benigni
+1999,ACTOR IN A LEADING ROLE,Saving Private Ryan,Tom Hanks
+1999,ACTOR IN A SUPPORTING ROLE,Shakespeare in Love,Geoffrey Rush
+1999,ACTOR IN A SUPPORTING ROLE,The Truman Show,Ed Harris
+2000,ACTOR IN A LEADING ROLE,American Beauty,Kevin Spacey
+2000,ACTOR IN A SUPPORTING ROLE,Magnolia,Tom Cruise
+2000,ACTOR IN A LEADING ROLE,Sweet and Lowdown,Sean Penn
+2000,ACTOR IN A SUPPORTING ROLE,The Cider House Rules,Michael Caine
+2000,ACTOR IN A SUPPORTING ROLE,The Green Mile,Michael Clarke Duncan
+2000,ACTOR IN A LEADING ROLE,The Hurricane (1999),Denzel Washington
+2000,ACTOR IN A LEADING ROLE,The Insider,Russell Crowe
+2000,ACTOR IN A SUPPORTING ROLE,The Sixth Sense,Haley Joel Osment
+2000,ACTOR IN A LEADING ROLE,The Straight Story,Richard Farnsworth
+2000,ACTOR IN A SUPPORTING ROLE,The Talented Mr. Ripley,Jude Law
+2001,ACTOR IN A LEADING ROLE,Before Night Falls,Javier Bardem
+2001,ACTOR IN A LEADING ROLE,Cast Away,Tom Hanks
+2001,ACTOR IN A SUPPORTING ROLE,Erin Brockovich,Albert Finney
+2001,ACTOR IN A LEADING ROLE,Gladiator,Russell Crowe
+2001,ACTOR IN A SUPPORTING ROLE,Gladiator,Joaquin Phoenix
+2001,ACTOR IN A LEADING ROLE,Pollock,Ed Harris
+2001,ACTOR IN A LEADING ROLE,Quills,Geoffrey Rush
+2001,ACTOR IN A SUPPORTING ROLE,Shadow of the Vampire,Willem Dafoe
+2001,ACTOR IN A SUPPORTING ROLE,The Contender,Jeff Bridges
+2001,ACTOR IN A SUPPORTING ROLE,Traffic,Benicio Del Toro
+2002,ACTOR IN A LEADING ROLE,A Beautiful Mind,Russell Crowe
+2002,ACTOR IN A LEADING ROLE,Ali,Will Smith
+2002,ACTOR IN A SUPPORTING ROLE,Ali,Jon Voight
+2002,ACTOR IN A LEADING ROLE,I Am Sam,Sean Penn
+2002,ACTOR IN A LEADING ROLE,In the Bedroom,Tom Wilkinson
+2002,ACTOR IN A SUPPORTING ROLE,Iris,Jim Broadbent
+2002,ACTOR IN A SUPPORTING ROLE,Sexy Beast,Ben Kingsley
+2002,ACTOR IN A SUPPORTING ROLE,The Lord of the Rings: The Fellowship of the Ring,Ian McKellen
+2002,ACTOR IN A LEADING ROLE,Training Day,Denzel Washington
+2002,ACTOR IN A SUPPORTING ROLE,Training Day,Ethan Hawke
+2003,ACTOR IN A LEADING ROLE,About Schmidt,Jack Nicholson
+2003,ACTOR IN A LEADING ROLE,Adaptation,Nicolas Cage
+2003,ACTOR IN A SUPPORTING ROLE,Adaptation,Chris Cooper
+2003,ACTOR IN A SUPPORTING ROLE,Catch Me If You Can,Christopher Walken
+2003,ACTOR IN A SUPPORTING ROLE,Chicago,John C. Reilly
+2003,ACTOR IN A LEADING ROLE,Gangs of New York,Daniel Day-Lewis
+2003,ACTOR IN A SUPPORTING ROLE,Road to Perdition,Paul Newman
+2003,ACTOR IN A SUPPORTING ROLE,The Hours,Ed Harris
+2003,ACTOR IN A LEADING ROLE,The Pianist,Adrien Brody
+2003,ACTOR IN A LEADING ROLE,The Quiet American,Michael Caine
+2004,ACTOR IN A SUPPORTING ROLE,21 Grams,Benicio Del Toro
+2004,ACTOR IN A LEADING ROLE,Cold Mountain,Jude Law
+2004,ACTOR IN A LEADING ROLE,House of Sand and Fog,Ben Kingsley
+2004,ACTOR IN A SUPPORTING ROLE,In America,Djimon Hounsou
+2004,ACTOR IN A LEADING ROLE,Lost in Translation,Bill Murray
+2004,ACTOR IN A LEADING ROLE,Mystic River,Sean Penn
+2004,ACTOR IN A SUPPORTING ROLE,Mystic River,Tim Robbins
+2004,ACTOR IN A LEADING ROLE,Pirates of the Caribbean: The Curse of the Black Pearl,Johnny Depp
+2004,ACTOR IN A SUPPORTING ROLE,The Cooler,Alec Baldwin
+2004,ACTOR IN A SUPPORTING ROLE,The Last Samurai,Ken Watanabe
+2005,ACTOR IN A SUPPORTING ROLE,Closer,Clive Owen
+2005,ACTOR IN A SUPPORTING ROLE,Collateral,Jamie Foxx
+2005,ACTOR IN A LEADING ROLE,Finding Neverland,Johnny Depp
+2005,ACTOR IN A LEADING ROLE,Hotel Rwanda,Don Cheadle
+2005,ACTOR IN A LEADING ROLE,Million Dollar Baby,Clint Eastwood
+2005,ACTOR IN A SUPPORTING ROLE,Million Dollar Baby,Morgan Freeman
+2005,ACTOR IN A LEADING ROLE,Ray,Jamie Foxx
+2005,ACTOR IN A SUPPORTING ROLE,Sideways,Thomas Haden Church
+2005,ACTOR IN A LEADING ROLE,The Aviator,Leonardo DiCaprio
+2005,ACTOR IN A SUPPORTING ROLE,The Aviator,Alan Alda
+2006,ACTOR IN A SUPPORTING ROLE,A History of Violence,William Hurt
+2006,ACTOR IN A LEADING ROLE,Brokeback Mountain,Heath Ledger
+2006,ACTOR IN A SUPPORTING ROLE,Brokeback Mountain,Jake Gyllenhaal
+2006,ACTOR IN A LEADING ROLE,Capote,Philip Seymour Hoffman
+2006,ACTOR IN A SUPPORTING ROLE,Cinderella Man,Paul Giamatti
+2006,ACTOR IN A SUPPORTING ROLE,Crash,Matt Dillon
+2006,ACTOR IN A LEADING ROLE,"Good Night, and Good Luck.",David Strathairn
+2006,ACTOR IN A LEADING ROLE,Hustle & Flow,Terrence Howard
+2006,ACTOR IN A SUPPORTING ROLE,Syriana,George Clooney
+2006,ACTOR IN A LEADING ROLE,Walk the Line,Joaquin Phoenix
+2007,ACTOR IN A LEADING ROLE,Blood Diamond,Leonardo DiCaprio
+2007,ACTOR IN A SUPPORTING ROLE,Blood Diamond,Djimon Hounsou
+2007,ACTOR IN A SUPPORTING ROLE,Dreamgirls,Eddie Murphy
+2007,ACTOR IN A LEADING ROLE,Half Nelson,Ryan Gosling
+2007,ACTOR IN A SUPPORTING ROLE,Little Children,Jackie Earle Haley
+2007,ACTOR IN A SUPPORTING ROLE,Little Miss Sunshine,Alan Arkin
+2007,ACTOR IN A SUPPORTING ROLE,The Departed,Mark Wahlberg
+2007,ACTOR IN A LEADING ROLE,The Last King of Scotland,Forest Whitaker
+2007,ACTOR IN A LEADING ROLE,The Pursuit of Happyness,Will Smith
+2007,ACTOR IN A LEADING ROLE,Venus,Peter O'Toole
+2008,ACTOR IN A SUPPORTING ROLE,Charlie Wilson's War,Philip Seymour Hoffman
+2008,ACTOR IN A LEADING ROLE,Eastern Promises,Viggo Mortensen
+2008,ACTOR IN A LEADING ROLE,In the Valley of Elah,Tommy Lee Jones
+2008,ACTOR IN A SUPPORTING ROLE,Into the Wild,Hal Holbrook
+2008,ACTOR IN A LEADING ROLE,Michael Clayton,George Clooney
+2008,ACTOR IN A SUPPORTING ROLE,Michael Clayton,Tom Wilkinson
+2008,ACTOR IN A SUPPORTING ROLE,No Country for Old Men,Javier Bardem
+2008,ACTOR IN A LEADING ROLE,Sweeney Todd The Demon Barber of Fleet Street,Johnny Depp
+2008,ACTOR IN A SUPPORTING ROLE,The Assassination of Jesse James by the Coward Robert Ford,Casey Affleck
+2008,ACTOR IN A LEADING ROLE,There Will Be Blood,Daniel Day-Lewis
+2009,ACTOR IN A SUPPORTING ROLE,Doubt,Philip Seymour Hoffman
+2009,ACTOR IN A LEADING ROLE,Frost/Nixon,Frank Langella
+2009,ACTOR IN A LEADING ROLE,Milk,Sean Penn
+2009,ACTOR IN A SUPPORTING ROLE,Milk,Josh Brolin
+2009,ACTOR IN A SUPPORTING ROLE,Revolutionary Road,Michael Shannon
+2009,ACTOR IN A LEADING ROLE,The Curious Case of Benjamin Button,Brad Pitt
+2009,ACTOR IN A SUPPORTING ROLE,The Dark Knight,Heath Ledger
+2009,ACTOR IN A LEADING ROLE,The Visitor,Richard Jenkins
+2009,ACTOR IN A LEADING ROLE,The Wrestler,Mickey Rourke
+2009,ACTOR IN A SUPPORTING ROLE,Tropic Thunder,Robert Downey Jr.
+2010,ACTOR IN A LEADING ROLE,A Single Man,Colin Firth
+2010,ACTOR IN A LEADING ROLE,Crazy Heart,Jeff Bridges
+2010,ACTOR IN A SUPPORTING ROLE,Inglourious Basterds,Christoph Waltz
+2010,ACTOR IN A LEADING ROLE,Invictus,Morgan Freeman
+2010,ACTOR IN A SUPPORTING ROLE,Invictus,Matt Damon
+2010,ACTOR IN A LEADING ROLE,The Hurt Locker,Jeremy Renner
+2010,ACTOR IN A SUPPORTING ROLE,The Last Station,Christopher Plummer
+2010,ACTOR IN A SUPPORTING ROLE,The Lovely Bones,Stanley Tucci
+2010,ACTOR IN A SUPPORTING ROLE,The Messenger,Woody Harrelson
+2010,ACTOR IN A LEADING ROLE,Up in the Air,George Clooney
+2011,ACTOR IN A LEADING ROLE,127 Hours,James Franco
+2011,ACTOR IN A LEADING ROLE,Biutiful,Javier Bardem
+2011,ACTOR IN A SUPPORTING ROLE,The Fighter,Christian Bale
+2011,ACTOR IN A SUPPORTING ROLE,The Kids Are All Right,Mark Ruffalo
+2011,ACTOR IN A LEADING ROLE,The King's Speech,Colin Firth
+2011,ACTOR IN A SUPPORTING ROLE,The King's Speech,Geoffrey Rush
+2011,ACTOR IN A LEADING ROLE,The Social Network,Jesse Eisenberg
+2011,ACTOR IN A SUPPORTING ROLE,The Town,Jeremy Renner
+2011,ACTOR IN A LEADING ROLE,True Grit (2010),Jeff Bridges
+2011,ACTOR IN A SUPPORTING ROLE,Winter's Bone,John Hawkes
+2012,ACTOR IN A LEADING ROLE,A Better Life,Demián Bichir
+2012,ACTOR IN A SUPPORTING ROLE,Beginners,Christopher Plummer
+2012,ACTOR IN A SUPPORTING ROLE,Extremely Loud & Incredibly Close,Max von Sydow
+2012,ACTOR IN A LEADING ROLE,Moneyball,Brad Pitt
+2012,ACTOR IN A SUPPORTING ROLE,Moneyball,Jonah Hill
+2012,ACTOR IN A SUPPORTING ROLE,My Week with Marilyn,Kenneth Branagh
+2012,ACTOR IN A LEADING ROLE,The Artist,Jean Dujardin
+2012,ACTOR IN A LEADING ROLE,The Descendants,George Clooney
+2012,ACTOR IN A LEADING ROLE,Tinker Tailor Soldier Spy,Gary Oldman
+2012,ACTOR IN A SUPPORTING ROLE,Warrior,Nick Nolte
+2013,ACTOR IN A SUPPORTING ROLE,Argo,Alan Arkin
+2013,ACTOR IN A SUPPORTING ROLE,Django Unchained,Christoph Waltz
+2013,ACTOR IN A LEADING ROLE,Flight,Denzel Washington
+2013,ACTOR IN A LEADING ROLE,Les Misérables (2012),Hugh Jackman
+2013,ACTOR IN A LEADING ROLE,Lincoln,Daniel Day-Lewis
+2013,ACTOR IN A SUPPORTING ROLE,Lincoln,Tommy Lee Jones
+2013,ACTOR IN A LEADING ROLE,Silver Linings Playbook,Bradley Cooper
+2013,ACTOR IN A SUPPORTING ROLE,Silver Linings Playbook,Robert De Niro
+2013,ACTOR IN A LEADING ROLE,The Master,Joaquin Phoenix
+2013,ACTOR IN A SUPPORTING ROLE,The Master,Philip Seymour Hoffman
+2014,ACTOR IN A LEADING ROLE,12 Years a Slave,Chiwetel Ejiofor
+2014,ACTOR IN A SUPPORTING ROLE,12 Years a Slave,Michael Fassbender
+2014,ACTOR IN A LEADING ROLE,American Hustle,Christian Bale
+2014,ACTOR IN A SUPPORTING ROLE,American Hustle,Bradley Cooper
+2014,ACTOR IN A SUPPORTING ROLE,Captain Phillips,Barkhad Abdi
+2014,ACTOR IN A LEADING ROLE,Dallas Buyers Club,Matthew McConaughey
+2014,ACTOR IN A SUPPORTING ROLE,Dallas Buyers Club,Jared Leto
+2014,ACTOR IN A LEADING ROLE,Nebraska,Bruce Dern
+2014,ACTOR IN A LEADING ROLE,The Wolf of Wall Street,Leonardo DiCaprio
+2014,ACTOR IN A SUPPORTING ROLE,The Wolf of Wall Street,Jonah Hill
+2015,ACTOR IN A LEADING ROLE,American Sniper,Bradley Cooper
+2015,ACTOR IN A LEADING ROLE,Birdman or (The Unexpected Virtue of Ignorance),Michael Keaton
+2015,ACTOR IN A SUPPORTING ROLE,Birdman or (The Unexpected Virtue of Ignorance),Edward Norton
+2015,ACTOR IN A SUPPORTING ROLE,Boyhood,Ethan Hawke
+2015,ACTOR IN A LEADING ROLE,Foxcatcher,Steve Carell
+2015,ACTOR IN A SUPPORTING ROLE,Foxcatcher,Mark Ruffalo
+2015,ACTOR IN A LEADING ROLE,The Imitation Game,Benedict Cumberbatch
+2015,ACTOR IN A SUPPORTING ROLE,The Judge,Robert Duvall
+2015,ACTOR IN A LEADING ROLE,The Theory of Everything,Eddie Redmayne
+2015,ACTOR IN A SUPPORTING ROLE,Whiplash,J.K. Simmons
+2016,ACTOR IN A SUPPORTING ROLE,Bridge of Spies,Mark Rylance
+2016,ACTOR IN A SUPPORTING ROLE,Creed,Sylvester Stallone
+2016,ACTOR IN A SUPPORTING ROLE,Spotlight,Mark Ruffalo
+2016,ACTOR IN A LEADING ROLE,Steve Jobs,Michael Fassbender
+2016,ACTOR IN A SUPPORTING ROLE,The Big Short,Christian Bale
+2016,ACTOR IN A LEADING ROLE,The Danish Girl,Eddie Redmayne
+2016,ACTOR IN A LEADING ROLE,The Martian,Matt Damon
+2016,ACTOR IN A LEADING ROLE,The Revenant,Leonardo DiCaprio
+2016,ACTOR IN A SUPPORTING ROLE,The Revenant,Tom Hardy
+2016,ACTOR IN A LEADING ROLE,Trumbo,Bryan Cranston
+2017,ACTOR IN A LEADING ROLE,Captain Fantastic,Viggo Mortensen
+2017,ACTOR IN A LEADING ROLE,Fences,Denzel Washington
+2017,ACTOR IN A LEADING ROLE,Hacksaw Ridge,Andrew Garfield
+2017,ACTOR IN A SUPPORTING ROLE,Hell or High Water,Jeff Bridges
+2017,ACTOR IN A LEADING ROLE,La La Land,Ryan Gosling
+2017,ACTOR IN A SUPPORTING ROLE,Lion,Dev Patel
+2017,ACTOR IN A LEADING ROLE,Manchester by the Sea,Casey Affleck
+2017,ACTOR IN A SUPPORTING ROLE,Manchester by the Sea,Lucas Hedges
+2017,ACTOR IN A SUPPORTING ROLE,Moonlight,Mahershala Ali
+2017,ACTOR IN A SUPPORTING ROLE,Nocturnal Animals,Michael Shannon
+2018,ACTOR IN A SUPPORTING ROLE,All the Money in the World,Christopher Plummer
+2018,ACTOR IN A LEADING ROLE,Call Me by Your Name,Timothée Chalamet
+2018,ACTOR IN A LEADING ROLE,Darkest Hour,Gary Oldman
+2018,ACTOR IN A LEADING ROLE,Get Out,Daniel Kaluuya
+2018,ACTOR IN A LEADING ROLE,Phantom Thread,Daniel Day-Lewis
+2018,ACTOR IN A LEADING ROLE,"Roman J. Israel, Esq.",Denzel Washington
+2018,ACTOR IN A SUPPORTING ROLE,The Florida Project,Willem Dafoe
+2018,ACTOR IN A SUPPORTING ROLE,The Shape of Water,Richard Jenkins
+2018,ACTOR IN A SUPPORTING ROLE,"Three Billboards outside Ebbing, Missouri",Sam Rockwell
+2018,ACTOR IN A SUPPORTING ROLE,"Three Billboards outside Ebbing, Missouri",Woody Harrelson
+2019,ACTOR IN A LEADING ROLE,A Star Is Born (2018),Bradley Cooper
+2019,ACTOR IN A SUPPORTING ROLE,A Star Is Born (2018),Sam Elliott
+2019,ACTOR IN A LEADING ROLE,At Eternity's Gate,Willem Dafoe
+2019,ACTOR IN A SUPPORTING ROLE,BlacKkKlansman,Adam Driver
+2019,ACTOR IN A LEADING ROLE,Bohemian Rhapsody,Rami Malek
+2019,ACTOR IN A SUPPORTING ROLE,Can You Ever Forgive Me?,Richard E. Grant
+2019,ACTOR IN A LEADING ROLE,Green Book,Viggo Mortensen
+2019,ACTOR IN A SUPPORTING ROLE,Green Book,Mahershala Ali
+2019,ACTOR IN A LEADING ROLE,Vice,Christian Bale
+2019,ACTOR IN A SUPPORTING ROLE,Vice,Sam Rockwell
+2020,ACTOR IN A SUPPORTING ROLE,A Beautiful Day in the Neighborhood,Tom Hanks
+2020,ACTOR IN A LEADING ROLE,Joker,Joaquin Phoenix
+2020,ACTOR IN A LEADING ROLE,Marriage Story,Adam Driver
+2020,ACTOR IN A LEADING ROLE,Once upon a Time...in Hollywood,Leonardo DiCaprio
+2020,ACTOR IN A SUPPORTING ROLE,Once upon a Time...in Hollywood,Brad Pitt
+2020,ACTOR IN A LEADING ROLE,Pain and Glory,Antonio Banderas
+2020,ACTOR IN A SUPPORTING ROLE,The Irishman,Al Pacino
+2020,ACTOR IN A SUPPORTING ROLE,The Irishman,Joe Pesci
+2020,ACTOR IN A LEADING ROLE,The Two Popes,Jonathan Pryce
+2020,ACTOR IN A SUPPORTING ROLE,The Two Popes,Anthony Hopkins
+2021,ACTOR IN A SUPPORTING ROLE,Judas and the Black Messiah,Daniel Kaluuya
+2021,ACTOR IN A SUPPORTING ROLE,Judas and the Black Messiah,Lakeith Stanfield
+2021,ACTOR IN A LEADING ROLE,Ma Rainey's Black Bottom,Chadwick Boseman
+2021,ACTOR IN A LEADING ROLE,Mank,Gary Oldman
+2021,ACTOR IN A LEADING ROLE,Minari,Steven Yeun
+2021,ACTOR IN A SUPPORTING ROLE,One Night in Miami...,"Leslie Odom, Jr."
+2021,ACTOR IN A LEADING ROLE,Sound of Metal,Riz Ahmed
+2021,ACTOR IN A SUPPORTING ROLE,Sound of Metal,Paul Raci
+2021,ACTOR IN A LEADING ROLE,The Father,Anthony Hopkins
+2021,ACTOR IN A SUPPORTING ROLE,The Trial of the Chicago 7,Sacha Baron Cohen
+2022,ACTOR IN A LEADING ROLE,Being the Ricardos,Javier Bardem
+2022,ACTOR IN A SUPPORTING ROLE,Being the Ricardos,J.K. Simmons
+2022,ACTOR IN A SUPPORTING ROLE,Belfast,Ciarán Hinds
+2022,ACTOR IN A SUPPORTING ROLE,CODA,Troy Kotsur
+2022,ACTOR IN A LEADING ROLE,King Richard,Will Smith
+2022,ACTOR IN A LEADING ROLE,The Power of the Dog,Benedict Cumberbatch
+2022,ACTOR IN A SUPPORTING ROLE,The Power of the Dog,Jesse Plemons
+2022,ACTOR IN A SUPPORTING ROLE,The Power of the Dog,Kodi Smit-McPhee
+2022,ACTOR IN A LEADING ROLE,The Tragedy of Macbeth,Denzel Washington
+2022,ACTOR IN A LEADING ROLE,"tick, tick...BOOM!",Andrew Garfield
+2023,ACTOR IN A LEADING ROLE,Aftersun,Paul Mescal
+2023,ACTOR IN A SUPPORTING ROLE,Causeway,Brian Tyree Henry
+2023,ACTOR IN A LEADING ROLE,Elvis,Austin Butler
+2023,ACTOR IN A SUPPORTING ROLE,Everything Everywhere All at Once,Ke Huy Quan
+2023,ACTOR IN A LEADING ROLE,Living,Bill Nighy
+2023,ACTOR IN A LEADING ROLE,The Banshees of Inisherin,Colin Farrell
+2023,ACTOR IN A SUPPORTING ROLE,The Banshees of Inisherin,Barry Keoghan
+2023,ACTOR IN A SUPPORTING ROLE,The Banshees of Inisherin,Brendan Gleeson
+2023,ACTOR IN A SUPPORTING ROLE,The Fabelmans,Judd Hirsch
+2023,ACTOR IN A LEADING ROLE,The Whale,Brendan Fraser
+2024,ACTOR IN A LEADING ROLE,American Fiction,Jeffrey Wright
+2024,ACTOR IN A SUPPORTING ROLE,American Fiction,Sterling K. Brown
+2024,ACTOR IN A SUPPORTING ROLE,Barbie,Ryan Gosling
+2024,ACTOR IN A SUPPORTING ROLE,Killers of the Flower Moon,Robert De Niro
+2024,ACTOR IN A LEADING ROLE,Maestro (2023),Bradley Cooper
+2024,ACTOR IN A LEADING ROLE,Oppenheimer,Cillian Murphy
+2024,ACTOR IN A SUPPORTING ROLE,Oppenheimer,Robert Downey Jr.
+2024,ACTOR IN A SUPPORTING ROLE,Poor Things,Mark Ruffalo
+2024,ACTOR IN A LEADING ROLE,Rustin,Colman Domingo
+2024,ACTOR IN A LEADING ROLE,The Holdovers,Paul Giamatti

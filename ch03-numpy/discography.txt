@@ -1,0 +1,13 @@
+# title, release, toprank
+David Bowie, 1969-11-14, 17
+The Man Who Sold the World, 1970-11-04, 3
+Hunky Dory, 1971-12-17, 5
+Ziggy Stardust, 1972-06-16, 1
+Aladdin Sane, 1973-04-13, 1
+Pin Ups, 1973-10-19, 1
+Diamond Dogs, 1974-05-24, 1
+Young Americans, 1975-03-07, 2
+Station To Station, 1976-01-23, 5
+Low, 1977-01-14, 2
+Heroes, 1977-10-14, 3
+Lodger, 1979-05-18, 4
