@@ -1,1 +1,15 @@
 # Specify Python package requirements for your project here (e.g., Mako==1.1.1). If your project doesn't require these, you can leave this file unchanged or delete it.
+numpy>=2.1.1
+scipy>=1.14.1
+pandas>=2.2.3
+matplotlib>=3.9.2
+seaborn>=0.13.2
+plotly>=5.24.1
+sklearn>=1.5.2
+pydantic>=2.9.2
+pyarrow>=17
+lxml>=5.3
+faker>=30.6
+tables>=3.10.1
+ipywidgets>=8.1.5
+statsmodels>=0.14
