@@ -1,1 +1,12 @@
-{"columns": ["Planet", "Mass", "FirstMission"], "index": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9], "data": [["MERCURY", 0.33, "Mariner 10"], ["VENUS", 4.87, "Mariner 2"], ["EARTH", 5.97, null], ["MOON", 0.073, "Luna 2"], ["MARS", 0.642, "Mariner 4"], ["JUPITER", 1898.0, "Pioneer 10"], ["SATURN", 568.0, "Pioneer 11"], ["URANUS", 86.8, "Voyager 2"], ["NEPTUNE", 102.0, "Voyager 2"], ["PLUTO", 0.0146, "New Horizons"]]}
+{"columns": ["Planet", "Mass", "FirstMission"],
+ "index": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+ "data": [["MERCURY", 0.33, "Mariner 10"],
+          ["VENUS", 4.87, "Mariner 2"],
+          ["EARTH", 5.97, null],
+          ["MOON", 0.073, "Luna 2"],
+          ["MARS", 0.642, "Mariner 4"],
+          ["JUPITER", 1898.0, "Pioneer 10"],
+          ["SATURN", 568.0, "Pioneer 11"],
+          ["URANUS", 86.8, "Voyager 2"],
+          ["NEPTUNE", 102.0, "Voyager 2"],
+          ["PLUTO", 0.0146, "New Horizons"]]}
