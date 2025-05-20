@@ -1,10 +1,4 @@
 # %%
-
-
-# %% [markdown]
-# # 00_04: Using GitHub CodeSpaces with this course
-
-# %%
 print("Hello world!")
 
 # %%
@@ -24,3 +18,5 @@ pp.plot(x, y, color="k", alpha=0.7, linewidth=0.8)
 pp.axis("off");
 
 
+
+# %%
